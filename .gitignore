@@ -1,0 +1,10 @@
+# Obsidian cache & workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Node & Build artifacts
+node_modules/
+dist/
+dist-electron/
+.DS_Store
+Thumbs.db
