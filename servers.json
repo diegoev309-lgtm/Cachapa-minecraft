@@ -1,0 +1,14 @@
+{
+  "updated_at": "2026.11.26-1950",
+  "servers": [
+    {
+      "id": "parasitos-1-12-2",
+      "name": "Parasitos 1.12.2 Forge (Scape and Run)",
+      "mc_version": "1.12.2",
+      "loader": "Forge 14.23.5.2864",
+      "ip": "darkfantasyrpg.play.hosting",
+      "manifest": "packs/parasitos-1-12-2/manifest.json",
+      "description": "Servidor oficial de Parasitos 1.12.2 (RTG, Enchanting Plus, SRPLoreLock v2.8.0)."
+    }
+  ]
+}

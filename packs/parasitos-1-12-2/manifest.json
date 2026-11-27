@@ -1,0 +1,3226 @@
+{
+  "pack_id": "parasitos-1-12-2",
+  "version": "2026.11.26-1950",
+  "base_path": "packs/parasitos-1-12-2",
+  "mc_version": "1.12.2",
+  "forge_version": "14.23.5.2864",
+  "total_files": 402,
+  "files": [
+    {
+      "path": "mods/!mixinbooter-12.4.jar",
+      "category": "mods",
+      "size": 2545811,
+      "sha256": "d31ec8552876b69c1dbda3cd6891e1a3bcbfc5155083ca7a6f887804a4f24b91",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/mods/%21mixinbooter-12.4.jar"
+    },
+    {
+      "path": "mods/!Red-Core-MC-1.8-1.12-0.7.1.jar",
+      "category": "mods",
+      "size": 149374,
+      "sha256": "9935912816062ca46a2ecd020d813ee2dde8e6b228daec068b465eb72ea51368",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/mods/%21Red-Core-MC-1.8-1.12-0.7.1.jar"
+    },
+    {
+      "path": "mods/AIImprovements-1.12-0.0.1b3.jar",
+      "category": "mods",
+      "size": 7266,
+      "sha256": "787fdcd860c226e7017a806fb9a48ee10ed9bbffb275e91207635d421d7e26da",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/mods/AIImprovements-1.12-0.0.1b3.jar"
+    },
+    {
+      "path": "mods/Alfheim-1.6.jar",
+      "category": "mods",
+      "size": 70512,
+      "sha256": "730bb0425c97d394c86712e27f71c93069d5b95877bd54f70fc56235eeef33ef",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/mods/Alfheim-1.6.jar"
+    },
+    {
+      "path": "mods/anvilpatch-1.1.1.jar",
+      "category": "mods",
+      "size": 16936,
+      "sha256": "be28628747aecea1a01e5781c02317fc19b88c7920b71466fafb7c7fd072f06b",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/mods/anvilpatch-1.1.1.jar"
+    },
+    {
+      "path": "mods/ApexGunAddon-1.12.2-0.1.2.jar",
+      "category": "mods",
+      "size": 622794,
+      "sha256": "c567af325937d3a0af5a8269af4702e20731119c10eac328865cbc6c1c242c4f",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/mods/ApexGunAddon-1.12.2-0.1.2.jar"
+    },
+    {
+      "path": "mods/AppleSkin-mc1.12-1.0.14.jar",
+      "category": "mods",
+      "size": 33683,
+      "sha256": "4bbd37edecff0b420ab0eea166b5d7b4b41a9870bfb8647bf243140dc57f101e",
+      "optional": true,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/mods/AppleSkin-mc1.12-1.0.14.jar"
+    },
+    {
+      "path": "mods/AquaAcrobatics-1.15.4.jar",
+      "category": "mods",
+      "size": 182194,
+      "sha256": "506ee8e264c347fad33302183b8f4daddb05d5e5f75c0b6d833266c886e127ce",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/mods/AquaAcrobatics-1.15.4.jar"
+    },
+    {
+      "path": "mods/artifacts-1.12.2-1.2.4.jar",
+      "category": "mods",
+      "size": 254421,
+      "sha256": "00fb044e13d4c827d97c551733cad20c547ee591bddf662fe9c41839749098d5",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/mods/artifacts-1.12.2-1.2.4.jar"
+    },
+    {
+      "path": "mods/BackportCore-1.4.1.jar",
+      "category": "mods",
+      "size": 2037060,
+      "sha256": "80d5aa894d019f268bf1d319462be3bac61e1964e0ed7c7c8b60765a3fd391e3",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/mods/BackportCore-1.4.1.jar"
+    },
+    {
+      "path": "mods/Baubles-1.12-1.5.2.jar",
+      "category": "mods",
+      "size": 108450,
+      "sha256": "b32010b2f2778aa1188585e7ead91ad46d4cb2c715f9c778a61848ba7fe51f8d",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/mods/Baubles-1.12-1.5.2.jar"
+    },
+    {
+      "path": "mods/bettercaves-1.12.2-2.0.4.jar",
+      "category": "mods",
+      "size": 193604,
+      "sha256": "b81b66c2b90431d0cd764f95a2d7ff4561052fa040e8e694b7e2b8e8fa974a00",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/mods/bettercaves-1.12.2-2.0.4.jar"
+    },
+    {
+      "path": "mods/BetterMineshaftsForge-1.12.2-2.2.1.jar",
+      "category": "mods",
+      "size": 305086,
+      "sha256": "6380ad3f470c38337e545afec5418084e95bd7ec3cd75658f9da81e46a2288b1",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/mods/BetterMineshaftsForge-1.12.2-2.2.1.jar"
+    },
+    {
+      "path": "mods/betternether-0.1.8.6.jar",
+      "category": "mods",
+      "size": 1769238,
+      "sha256": "6fffbb495ec446317f4cfdbc4f471a30bffa298c4f354adfed62e4ab5ab274b2",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/mods/betternether-0.1.8.6.jar"
+    },
+    {
+      "path": "mods/BetterTabs-1.0.4.jar",
+      "category": "mods",
+      "size": 21728,
+      "sha256": "7f0f510696c136dc4152264622e54f42bde6aad715468fd5fe898d653f78e776",
+      "optional": true,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/mods/BetterTabs-1.0.4.jar"
+    },
+    {
+      "path": "mods/Bookshelf-1.12.2-2.3.590.jar",
+      "category": "mods",
+      "size": 266636,
+      "sha256": "043afbddfd567e753a893f5a8f0e052db7c45209a08d09d9dcf32cadca764109",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/mods/Bookshelf-1.12.2-2.3.590.jar"
+    },
+    {
+      "path": "mods/BountifulBaubles-1.12.2-0.1.8.jar",
+      "category": "mods",
+      "size": 447825,
+      "sha256": "aa4c7609455916fb9f6dea575f164f89304f20cfe42cf93dd681e77a87181a9d",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/mods/BountifulBaubles-1.12.2-0.1.8.jar"
+    },
+    {
+      "path": "mods/Clumps-3.1.2.jar",
+      "category": "mods",
+      "size": 13792,
+      "sha256": "f3ce670e0087f4c6b770fd05ae5c3dfd8462f74c62397932ea72954d1c6c8df4",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/mods/Clumps-3.1.2.jar"
+    },
+    {
+      "path": "mods/CustomSkinLoader_Universal-15.1.jar",
+      "category": "mods",
+      "size": 222917,
+      "sha256": "c8769a38b3cc1da2a7b2f5827d1a53a24cd1ef6d0784b1eb545569f5882a2ffb",
+      "optional": true,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/mods/CustomSkinLoader_Universal-15.1.jar"
+    },
+    {
+      "path": "mods/disenchanter[1.12]1.8.jar",
+      "category": "mods",
+      "size": 172724,
+      "sha256": "db6b3b16647cf5fa520aea8254c0aefef8262bff03ff55840349b9e1ba5e7832",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/mods/disenchanter%5B1.12%5D1.8.jar"
+    },
+    {
+      "path": "mods/EnchantingPlus-1.12.2-5.0.179.jar",
+      "category": "mods",
+      "size": 146787,
+      "sha256": "c50f933ad448d9149d20c5cf95b2bf1a996d2a3e4adc9e98243e166ea3f67628",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/mods/EnchantingPlus-1.12.2-5.0.179.jar"
+    },
+    {
+      "path": "mods/EnchantmentDescriptions-1.12.2-1.1.20.jar",
+      "category": "mods",
+      "size": 17072,
+      "sha256": "a67a4cf91eb47c7cf345ad8ae956688e29b55bb99b03024d43981595e4282b96",
+      "optional": true,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/mods/EnchantmentDescriptions-1.12.2-1.1.20.jar"
+    },
+    {
+      "path": "mods/entityculling-1.12.2-1.6.3.jar",
+      "category": "mods",
+      "size": 41478,
+      "sha256": "1b44014b44cef0e31b6fc618fb195ba110db11dcebb0952e0877492b4cb2d478",
+      "optional": true,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/mods/entityculling-1.12.2-1.6.3.jar"
+    },
+    {
+      "path": "mods/Forgelin-Continuous-2.4.20.0.jar",
+      "category": "mods",
+      "size": 8020330,
+      "sha256": "9898d49661eb8f52e8b8ec0d4d8e8fd6ab09c3a068be9425b55260215406794d",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/mods/Forgelin-Continuous-2.4.20.0.jar"
+    },
+    {
+      "path": "mods/Future-MC-0.2.21.jar",
+      "category": "mods",
+      "size": 19985643,
+      "sha256": "e1e6ec0397ae0479ad1d42557a03b97f9a159628f83829bb5ceab4822af978be",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/mods/Future-MC-0.2.21.jar"
+    },
+    {
+      "path": "mods/futurefireproof-1.12.2-1.2.4.jar",
+      "category": "mods",
+      "size": 26239,
+      "sha256": "9e53b58d9ae9c2601acd603f356768ce381df849930096cbfed9c5bf9152b8bd",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/mods/futurefireproof-1.12.2-1.2.4.jar"
+    },
+    {
+      "path": "mods/grappling_hook_mod-1.12.2-v13.jar",
+      "category": "mods",
+      "size": 439274,
+      "sha256": "aed5c483b689f30a4980704301c399c92e370ff4a14629a636d8ce0fe95d694b",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/mods/grappling_hook_mod-1.12.2-v13.jar"
+    },
+    {
+      "path": "mods/guns-0.15.3-1.12.2.jar",
+      "category": "mods",
+      "size": 814386,
+      "sha256": "62325d26dfb2d7c2e4dfdd5f5609fb51a4f7222b35a22b9b6e42a950b9c92d80",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/mods/guns-0.15.3-1.12.2.jar"
+    },
+    {
+      "path": "mods/jei_1.12.2-4.22.0.1037.jar",
+      "category": "mods",
+      "size": 715519,
+      "sha256": "1dd042fc442a6a63ca6e260882abcdd0504cb681e9fcf1eb428dea6932bb6a01",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/mods/jei_1.12.2-4.22.0.1037.jar"
+    },
+    {
+      "path": "mods/levelup2-1.5.8.jar",
+      "category": "mods",
+      "size": 1083920,
+      "sha256": "e6e515934838b907dc0e8a5377a81de6eb991e711c8c25f50fcfe3bd7fe66485",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/mods/levelup2-1.5.8.jar"
+    },
+    {
+      "path": "mods/llibrary-1.7.20-1.12.2.jar",
+      "category": "mods",
+      "size": 884550,
+      "sha256": "27fa8dbfc7428168229a445dad82a4696ba52cf0a6e054833bff0f93931d8ceb",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/mods/llibrary-1.7.20-1.12.2.jar"
+    },
+    {
+      "path": "mods/MouseTweaks-2.10.1-mc1.12.2.jar",
+      "category": "mods",
+      "size": 80528,
+      "sha256": "5e13315f4e0d0c96b1f9b800a42fecb89f519aca81d556c91df617c8751aa575",
+      "optional": true,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/mods/MouseTweaks-2.10.1-mc1.12.2.jar"
+    },
+    {
+      "path": "mods/Nether-API-v1.5.4-mc1.12.2.jar",
+      "category": "mods",
+      "size": 558097,
+      "sha256": "101321b0872705155fa3652b1df97e128a92db7a6d8901b8bb2bd964a45ce871",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/mods/Nether-API-v1.5.4-mc1.12.2.jar"
+    },
+    {
+      "path": "mods/NoCubes_SRP_Combat_Addon_3.0.0.jar",
+      "category": "mods",
+      "size": 516195,
+      "sha256": "9472cccd10ccc7fb4b03c59fc6065392b71bcbd73b48410a91bb97730c0d3427",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/mods/NoCubes_SRP_Combat_Addon_3.0.0.jar"
+    },
+    {
+      "path": "mods/NoCubes_SRP_Nests_Addon_3.0.0.jar",
+      "category": "mods",
+      "size": 354221,
+      "sha256": "bcf1d0dd24e4c91e835572f38df42ddcbfce26dc348f4e795ec4ad75d66fd094",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/mods/NoCubes_SRP_Nests_Addon_3.0.0.jar"
+    },
+    {
+      "path": "mods/NoCubes_SRP_Survival_Addon_3.0.0.jar",
+      "category": "mods",
+      "size": 679400,
+      "sha256": "4d0f459b2714261032e2c8be221eb2164873be7dc4a38773aa475e6e4e53ca9c",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/mods/NoCubes_SRP_Survival_Addon_3.0.0.jar"
+    },
+    {
+      "path": "mods/obfuscate-0.4.2-1.12.2.jar",
+      "category": "mods",
+      "size": 129099,
+      "sha256": "5bcc67ff15e7b0155268dda6b78b103d6abf658ad5c9ca0187f26923d34151fb",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/mods/obfuscate-0.4.2-1.12.2.jar"
+    },
+    {
+      "path": "mods/OptiFine_1.12.2_HD_U_G5.jar",
+      "category": "mods",
+      "size": 2669107,
+      "sha256": "3b0006797771feb97f2d0d2908ae7c9a78cefb2e730af1c2e85d08a839ba271e",
+      "optional": true,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/mods/OptiFine_1.12.2_HD_U_G5.jar"
+    },
+    {
+      "path": "mods/OreExcavation-1.4.150.jar",
+      "category": "mods",
+      "size": 184743,
+      "sha256": "535c5a8e2d708fa810687698425f982f16c326c0cc91fa5eec08194d65ef2c28",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/mods/OreExcavation-1.4.150.jar"
+    },
+    {
+      "path": "mods/RoguelikeDungeons-1.12.2-1.8.0.jar",
+      "category": "mods",
+      "size": 701215,
+      "sha256": "0668c6dd53adfb837e2cb9e2650b9925fe250063f12bcd159d9f80093d4fef20",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/mods/RoguelikeDungeons-1.12.2-1.8.0.jar"
+    },
+    {
+      "path": "mods/RTG-1.12.2-6.1.0.0-snapshot.1.jar",
+      "category": "mods",
+      "size": 2075023,
+      "sha256": "354317bea5c6b97d1dfe17f9431005fd741f853425fa57c8bedd801947f70f52",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/mods/RTG-1.12.2-6.1.0.0-snapshot.1.jar"
+    },
+    {
+      "path": "mods/ScalingHealth-1.12.2-1.3.42+147.jar",
+      "category": "mods",
+      "size": 369985,
+      "sha256": "03ae1c25de660a2cf6677802892720b0b78df965fcf2af31686bb6c858569466",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/mods/ScalingHealth-1.12.2-1.3.42%2B147.jar"
+    },
+    {
+      "path": "mods/SilentLib-1.12.2-3.0.14+168.jar",
+      "category": "mods",
+      "size": 369314,
+      "sha256": "eabb5fc9bdbff1620db5e567663ac2f1bfedc02f7f3004313e7fdde66ec11d16",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/mods/SilentLib-1.12.2-3.0.14%2B168.jar"
+    },
+    {
+      "path": "mods/SoManyEnchantments-1.0.9-1.12.2.jar",
+      "category": "mods",
+      "size": 2596097,
+      "sha256": "1c3ffefe1c293e69330551fa64013ccc5f33873a4de8626c99e43755e132a006",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/mods/SoManyEnchantments-1.0.9-1.12.2.jar"
+    },
+    {
+      "path": "mods/SpartanNetherite-1.12.2-1.2.1.jar",
+      "category": "mods",
+      "size": 100192,
+      "sha256": "4f79137e69ab73b892ad804a3b81bbd63b54a0d07253c94b6c4c5a547ecd063f",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/mods/SpartanNetherite-1.12.2-1.2.1.jar"
+    },
+    {
+      "path": "mods/SpartanShields-1.12.2-1.5.5.jar",
+      "category": "mods",
+      "size": 430876,
+      "sha256": "46b58f509e9023adda3ac087031ebd60acc9db8177125cd197a33099b8eea603",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/mods/SpartanShields-1.12.2-1.5.5.jar"
+    },
+    {
+      "path": "mods/SpartanWeaponry-1.12.2-1.6.1.jar",
+      "category": "mods",
+      "size": 2371089,
+      "sha256": "3423adbbc2a37a62e57ed3dc0711036f68128d99f0c50a2ba9edef709b58acd0",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/mods/SpartanWeaponry-1.12.2-1.6.1.jar"
+    },
+    {
+      "path": "mods/SRParasites-1.10.9.jar",
+      "category": "mods",
+      "size": 116798138,
+      "sha256": "91051446401d0a7f346f53fc5f3f07658d4b8b36d22f19f4dfefae511a52f37b",
+      "optional": false,
+      "url": "https://mediafilez.forgecdn.net/files/8787/918/SRParasites-1.10.9.jar"
+    },
+    {
+      "path": "mods/srplorelock-1.0.0.jar",
+      "category": "mods",
+      "size": 34825,
+      "sha256": "ef859468d15dbbbfcfeb93549a56a3f45959f42ed0e8b9dc1638b613bb32aef5",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/mods/srplorelock-1.0.0.jar"
+    },
+    {
+      "path": "mods/srpmeteor-1.10.7.jar",
+      "category": "mods",
+      "size": 449196,
+      "sha256": "0eababc4087a624183c8ddccebf97d9ab56b304bda3827168a24b7c3b04cf36c",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/mods/srpmeteor-1.10.7.jar"
+    },
+    {
+      "path": "mods/stygian-1.0.4.jar",
+      "category": "mods",
+      "size": 215069,
+      "sha256": "ed69d177e42ba83b6aca1daa910e1e9209d26b2269d021126702a950e47f59e9",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/mods/stygian-1.0.4.jar"
+    },
+    {
+      "path": "mods/Surge-1.12.2-2.0.79.jar",
+      "category": "mods",
+      "size": 957330,
+      "sha256": "d6ab635ab4bc8538c3b362832e5392c4f38fca7306d4aa0e110998cdd82931f6",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/mods/Surge-1.12.2-2.0.79.jar"
+    },
+    {
+      "path": "mods/swparasites-v5.jar",
+      "category": "mods",
+      "size": 553583,
+      "sha256": "ab28dbe47819830d6dd477f0277110b11700f54ee3a007071a7e14469ac26fbe",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/mods/swparasites-v5.jar"
+    },
+    {
+      "path": "mods/tombstone-1.12.2-4.8.1.jar",
+      "category": "mods",
+      "size": 1655384,
+      "sha256": "125c5d6d9dbaadf895b2d4ee1cf47f3ed6ba250675dc1518d70b90d41a7ff35e",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/mods/tombstone-1.12.2-4.8.1.jar"
+    },
+    {
+      "path": "mods/u_team_core-forge-1.12.2-2.2.5.375.jar",
+      "category": "mods",
+      "size": 346211,
+      "sha256": "92d27852bd081fc9cd2d95172cbf4473fa697653f6236bb3f5779eef60960ad4",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/mods/u_team_core-forge-1.12.2-2.2.5.375.jar"
+    },
+    {
+      "path": "mods/unseens-nether-backport-0.9.jar",
+      "category": "mods",
+      "size": 47321411,
+      "sha256": "0e33279ffe83da7ff18e19c01fa17cf31eb66873f9676a9164a4c0cf58f08490",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/mods/unseens-nether-backport-0.9.jar"
+    },
+    {
+      "path": "mods/useful_backpacks-1.12.2-1.5.4.85.jar",
+      "category": "mods",
+      "size": 63394,
+      "sha256": "ff231e76e4f5263cdb5b6aa825fb428c72fc6d39841ff9a19736a163e025e448",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/mods/useful_backpacks-1.12.2-1.5.4.85.jar"
+    },
+    {
+      "path": "mods/VillageNames-1.12.2-5.0.jar",
+      "category": "mods",
+      "size": 5243823,
+      "sha256": "4ecb17f1cab96aad951dcbf46778f3447f0ec62a15c05e189989afdb6995afd6",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/mods/VillageNames-1.12.2-5.0.jar"
+    },
+    {
+      "path": "mods/VillagerBackport-2.7.1.jar",
+      "category": "mods",
+      "size": 15203668,
+      "sha256": "7ea0eeaee0bcfd9971a9502fd38caabf8d4380f15c1b8ff98c4dc0d396201ef2",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/mods/VillagerBackport-2.7.1.jar"
+    },
+    {
+      "path": "mods/vintagefix-0.7.2.jar",
+      "category": "mods",
+      "size": 1045123,
+      "sha256": "33a16df8fe94bb625a41bc20d7d3d4629b63c6a53e95119715db5e969982b65b",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/mods/vintagefix-0.7.2.jar"
+    },
+    {
+      "path": "mods/Waystones_1.12.2-4.1.0.jar",
+      "category": "mods",
+      "size": 178994,
+      "sha256": "5e79f329154d9a6225130f2b29dbcb0f603e2e622637e39ca566f8179b02ca15",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/mods/Waystones_1.12.2-4.1.0.jar"
+    },
+    {
+      "path": "mods/WildCaves4-1.12.2-1.0.1.jar",
+      "category": "mods",
+      "size": 306108,
+      "sha256": "0e115e19f12ce63b421d9f10046ec652ff8bd3a7ec7d1102e0d53b986aa40048",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/mods/WildCaves4-1.12.2-1.0.1.jar"
+    },
+    {
+      "path": "mods/wings-1.1.6-1.12.2.jar",
+      "category": "mods",
+      "size": 332090,
+      "sha256": "b959b0349a8ca19034d2157973d582b8c54f05a3c6789f5565089904b8081c04",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/mods/wings-1.1.6-1.12.2.jar"
+    },
+    {
+      "path": "mods/xaerolib-forge-1.12.2-1.7.3.jar",
+      "category": "mods",
+      "size": 617566,
+      "sha256": "6c0cab56a6f56e94eff537f0fdfa6f6f69b9d651caf221e44a837027a6d9b1c0",
+      "optional": true,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/mods/xaerolib-forge-1.12.2-1.7.3.jar"
+    },
+    {
+      "path": "mods/xaerominimap-forge-1.12.2-26.6.0.jar",
+      "category": "mods",
+      "size": 2030024,
+      "sha256": "efb30f0904bb8e3744bb62f77ad4f7c9e7613e063aa9900498cbb5a6e1b6d882",
+      "optional": true,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/mods/xaerominimap-forge-1.12.2-26.6.0.jar"
+    },
+    {
+      "path": "mods/xaeroworldmap-forge-1.12.2-1.47.0.jar",
+      "category": "mods",
+      "size": 943127,
+      "sha256": "a00a7d95dc8d19427d989d43968fea0d645b508fdc15bd568389e6b18bd17b6b",
+      "optional": true,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/mods/xaeroworldmap-forge-1.12.2-1.47.0.jar"
+    },
+    {
+      "path": "mods/zzz_parasitos_es-1.12.2-1.0.0.jar",
+      "category": "mods",
+      "size": 1558298,
+      "sha256": "7cb1183724cb97437398002a3250095e085f76594e482d130144ee8cbe1f2195",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/mods/zzz_parasitos_es-1.12.2-1.0.0.jar"
+    },
+    {
+      "path": "config/Additional Structures - General.cfg",
+      "category": "config",
+      "size": 700,
+      "sha256": "982e0f418e55180e176edfcf71bce77fa471709d07c9d05885b0b88a347114c6",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/Additional%20Structures%20-%20General.cfg"
+    },
+    {
+      "path": "config/Additional Structures - Structures.cfg",
+      "category": "config",
+      "size": 4561,
+      "sha256": "e52b16a56bee32109a7dd0239effcc395d217f7c082aaa7dcc7efb65ab27f30c",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/Additional%20Structures%20-%20Structures.cfg"
+    },
+    {
+      "path": "config/advancedrifles/guns/ak12.json",
+      "category": "config",
+      "size": 341,
+      "sha256": "46bdfcdb71e026f23442af0489527d5c4b9835b5803460c6c0b05871e1e49ccb",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/advancedrifles/guns/ak12.json"
+    },
+    {
+      "path": "config/advancedrifles/guns/assault_rifle_advanced.json",
+      "category": "config",
+      "size": 340,
+      "sha256": "d25f4163fa75f874f5c7c7127f26bc396309fb5f6d029ef710d48532d2835a40",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/advancedrifles/guns/assault_rifle_advanced.json"
+    },
+    {
+      "path": "config/advancedrifles/guns/assault_rifle_mk2.json",
+      "category": "config",
+      "size": 341,
+      "sha256": "46909dafdf034f0618ef19955a4c53e612c41a846139718d85afaab313697890",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/advancedrifles/guns/assault_rifle_mk2.json"
+    },
+    {
+      "path": "config/advancedrifles/guns/aug.json",
+      "category": "config",
+      "size": 340,
+      "sha256": "6876ed8288c05df8f4a9404dd9449f5076fa4b0377da52f7f4f2d7caf0a00ae3",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/advancedrifles/guns/aug.json"
+    },
+    {
+      "path": "config/advancedrifles/guns/awp.json",
+      "category": "config",
+      "size": 344,
+      "sha256": "1b83a2cf84f5ac1b80e6a738077065414383806d66a6f9f1d91182078a44a784",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/advancedrifles/guns/awp.json"
+    },
+    {
+      "path": "config/advancedrifles/guns/cheaprifle.json",
+      "category": "config",
+      "size": 339,
+      "sha256": "3405046bf0ea4d812ef74a0aede97c8240aea4287633f9e23660f0684bec0b8e",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/advancedrifles/guns/cheaprifle.json"
+    },
+    {
+      "path": "config/advancedrifles/guns/crossbow.json",
+      "category": "config",
+      "size": 342,
+      "sha256": "fe65be16554b817f0d6659686157a9874df1885f245ded4a2421a693f3032b94",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/advancedrifles/guns/crossbow.json"
+    },
+    {
+      "path": "config/advancedrifles/guns/deagle.json",
+      "category": "config",
+      "size": 339,
+      "sha256": "e1bacd3ac4be1a09b4270a1b1445c761b40ae68f7593ca96695b59bc62e75be0",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/advancedrifles/guns/deagle.json"
+    },
+    {
+      "path": "config/advancedrifles/guns/glock.json",
+      "category": "config",
+      "size": 340,
+      "sha256": "6b4688845352b78c07fd4e7528e4f0feccaab462cb616a452bcb04e464adf1cf",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/advancedrifles/guns/glock.json"
+    },
+    {
+      "path": "config/advancedrifles/guns/grenade_launcher_advanced.json",
+      "category": "config",
+      "size": 338,
+      "sha256": "153e2f82ed934db84226c91f93349b28f24f7c29fb815a3d94b8ae2c5ccdc939",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/advancedrifles/guns/grenade_launcher_advanced.json"
+    },
+    {
+      "path": "config/advancedrifles/guns/hand_grenadelauncher.json",
+      "category": "config",
+      "size": 338,
+      "sha256": "b98f62b92cdd092d0a3db787f025612804091244ca7ddabc8614779fe133f77a",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/advancedrifles/guns/hand_grenadelauncher.json"
+    },
+    {
+      "path": "config/advancedrifles/guns/m16.json",
+      "category": "config",
+      "size": 341,
+      "sha256": "14b7dcb2752dbf0a9b3383f912192b59bfd688c462b67cd712a0e4359080c7bb",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/advancedrifles/guns/m16.json"
+    },
+    {
+      "path": "config/advancedrifles/guns/mp5.json",
+      "category": "config",
+      "size": 340,
+      "sha256": "aa8f3ffce57ac53c7eab98092ce9e0d4ee73b710da9c68dfee2dbbfd6e07c73a",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/advancedrifles/guns/mp5.json"
+    },
+    {
+      "path": "config/advancedrifles/guns/mp5stockclosed.json",
+      "category": "config",
+      "size": 340,
+      "sha256": "aa8f3ffce57ac53c7eab98092ce9e0d4ee73b710da9c68dfee2dbbfd6e07c73a",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/advancedrifles/guns/mp5stockclosed.json"
+    },
+    {
+      "path": "config/advancedrifles/guns/revolver.json",
+      "category": "config",
+      "size": 340,
+      "sha256": "5a5c40ed50f5679f1fa1fcc2fe7300f0b09bd55df2b0fb51d523ef7e41640baf",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/advancedrifles/guns/revolver.json"
+    },
+    {
+      "path": "config/advancedrifles/guns/revolver_mk2.json",
+      "category": "config",
+      "size": 342,
+      "sha256": "73a12b409b3edfbf1cb2d2eff66c9c70adf4abf554a0d87718a6c6d5f811872c",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/advancedrifles/guns/revolver_mk2.json"
+    },
+    {
+      "path": "config/advancedrifles/guns/rifle_advanced.json",
+      "category": "config",
+      "size": 341,
+      "sha256": "672c890bd687a0409aafbb81b8596f02d31302391fa3c484f8843b0edc60ea6d",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/advancedrifles/guns/rifle_advanced.json"
+    },
+    {
+      "path": "config/advancedrifles/guns/scar.json",
+      "category": "config",
+      "size": 341,
+      "sha256": "cc5d86cd0c2be0872010bb43efc1a5e11a8571fab0017d31f692442046902aa4",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/advancedrifles/guns/scar.json"
+    },
+    {
+      "path": "config/advancedrifles/guns/shotgun_auto.json",
+      "category": "config",
+      "size": 339,
+      "sha256": "4413036ec5ba8d56089282aaec750dfea77c6a84f61db2d69ccb3e8ae1d58cb8",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/advancedrifles/guns/shotgun_auto.json"
+    },
+    {
+      "path": "config/advancedrifles/guns/shotgun_doublebarrel.json",
+      "category": "config",
+      "size": 338,
+      "sha256": "78a89cbfaf8e99c964d59f5e83bf994247fd7091640eabc171dcfd9afa899b38",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/advancedrifles/guns/shotgun_doublebarrel.json"
+    },
+    {
+      "path": "config/advancedrifles/guns/shotgun_mk2.json",
+      "category": "config",
+      "size": 338,
+      "sha256": "ae06d2781cc7f5be3ab321c84fa462255b57da679d1f3091c8f8be5c3bd687f1",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/advancedrifles/guns/shotgun_mk2.json"
+    },
+    {
+      "path": "config/advancedrifles/guns/shotgun_sawedoff.json",
+      "category": "config",
+      "size": 338,
+      "sha256": "ecc44251a2fe424f661847209e970a91bfb3c6f99193acccffe5976c9d557d55",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/advancedrifles/guns/shotgun_sawedoff.json"
+    },
+    {
+      "path": "config/advancedrifles/guns/uzi.json",
+      "category": "config",
+      "size": 340,
+      "sha256": "a2b9d3ace7da2cce0a2d4488d379ab19256a282533dd6d6d8d588f7016f1e868",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/advancedrifles/guns/uzi.json"
+    },
+    {
+      "path": "config/aether-dimension/biomes.txt",
+      "category": "config",
+      "size": 83,
+      "sha256": "c9b9f8d7baad74bbc48d690125f68a704fdac46b55ce84a496edfec563173cac",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/aether-dimension/biomes.txt"
+    },
+    {
+      "path": "config/aether_legacy.cfg",
+      "category": "config",
+      "size": 8006,
+      "sha256": "b9f66c215faa1c4bad23f8f25f65d3416cb38f498921e9b79d7810828068d886",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/aether_legacy.cfg"
+    },
+    {
+      "path": "config/anvilpatch.cfg",
+      "category": "config",
+      "size": 1424,
+      "sha256": "90a38ef7f242a93061a6f6e7c8cb359c4d401c302c5648718b0fd0eb3d6a8e75",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/anvilpatch.cfg"
+    },
+    {
+      "path": "config/apexguns/guns/kraber.json",
+      "category": "config",
+      "size": 345,
+      "sha256": "f0e4acdeabcb95f59655f08471a97394f66782a9bdc1aa1e957bda227c3e0bc1",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/apexguns/guns/kraber.json"
+    },
+    {
+      "path": "config/apexguns/guns/r301.json",
+      "category": "config",
+      "size": 342,
+      "sha256": "83739cde7de75ae014153a6753eb75c527119d462fc965ac6cb94e793a42844d",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/apexguns/guns/r301.json"
+    },
+    {
+      "path": "config/apexguns/guns/r99.json",
+      "category": "config",
+      "size": 342,
+      "sha256": "cc8b9577cb7894431676d2b34026027cf898abcca58a3b5cb17338a504e3ace4",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/apexguns/guns/r99.json"
+    },
+    {
+      "path": "config/apexguns/guns/rifle3030.json",
+      "category": "config",
+      "size": 342,
+      "sha256": "24f1bcd02d6531cb7df60502649a4d2604a524e177974f2fcece7382da1a0a14",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/apexguns/guns/rifle3030.json"
+    },
+    {
+      "path": "config/apexguns/guns/spitfire.json",
+      "category": "config",
+      "size": 342,
+      "sha256": "b034a0f2146abada0032a7e5f47802aa850fd1a7231a42f319badd09ff200232",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/apexguns/guns/spitfire.json"
+    },
+    {
+      "path": "config/apexguns.cfg",
+      "category": "config",
+      "size": 1212,
+      "sha256": "28c709d648f3c45e2a8ffba2c139da9a2674b6c163c8ab3f9d753b3df119908e",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/apexguns.cfg"
+    },
+    {
+      "path": "config/appleskin.cfg",
+      "category": "config",
+      "size": 1333,
+      "sha256": "27fdd990f5cc4d5f8da3a8cd189a26dc50158edfd32ac633a9b82729c33ad317",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/appleskin.cfg"
+    },
+    {
+      "path": "config/aquaacrobatics.cfg",
+      "category": "config",
+      "size": 6579,
+      "sha256": "58787fe851fcbd4f7dbcbfcaf02888c79c33d7ceeb825f3620bd5af0f56e0c8c",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/aquaacrobatics.cfg"
+    },
+    {
+      "path": "config/aquaacrobatics_core.cfg",
+      "category": "config",
+      "size": 250,
+      "sha256": "627ad248bb08acf506e4c2855c57ecc634a70f2768d042914ebe5fd7fc337074",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/aquaacrobatics_core.cfg"
+    },
+    {
+      "path": "config/Artifacts.cfg",
+      "category": "config",
+      "size": 2012,
+      "sha256": "5b5b0656d46e563516902d2e484c4463eb83615b5524cf9ed800b3e6012c41aa",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/Artifacts.cfg"
+    },
+    {
+      "path": "config/backportcore.cfg",
+      "category": "config",
+      "size": 7885,
+      "sha256": "35a6d9e3e33d26f6ecc65f71bada0a3ed5b4e9d5b84bfe8aab851a3783a20620",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/backportcore.cfg"
+    },
+    {
+      "path": "config/baubles.cfg",
+      "category": "config",
+      "size": 162,
+      "sha256": "e508483e8a803419d2600e3135cd0ccb6ea71307e3b20ccefc7943cbde4e1b18",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/baubles.cfg"
+    },
+    {
+      "path": "config/bbm/AI_Improvements.cfg",
+      "category": "config",
+      "size": 439,
+      "sha256": "6f5906deab8573023f5b5c34c4979f182e24187350b6c053ffa8035c3fe4d1f0",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/bbm/AI_Improvements.cfg"
+    },
+    {
+      "path": "config/bettercaves-1_12_2.cfg",
+      "category": "config",
+      "size": 21135,
+      "sha256": "c3beb584ace040617dee1b077beded96f86ecb60f469e25e5842eda6d7954aa4",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/bettercaves-1_12_2.cfg"
+    },
+    {
+      "path": "config/betterfps.cfg",
+      "category": "config",
+      "size": 497,
+      "sha256": "121158bd46f100357782f8d1638f85b611e44acf034b59a38f78123692ca46e1",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/betterfps.cfg"
+    },
+    {
+      "path": "config/bettermineshafts/1_12_2/biomeTags.txt",
+      "category": "config",
+      "size": 417,
+      "sha256": "30ab719da2a37f3ac6dc08aa2ba2b654f76175337a1b90587fcd9c0577161f4a",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/bettermineshafts/1_12_2/biomeTags.txt"
+    },
+    {
+      "path": "config/bettermineshafts/1_12_2/README.txt",
+      "category": "config",
+      "size": 6409,
+      "sha256": "0facdb53ae83082756b178615f70a5668fbc2dbd4c91494b7c499c28c72a710c",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/bettermineshafts/1_12_2/README.txt"
+    },
+    {
+      "path": "config/bettermineshafts/1_12_2/variants.json",
+      "category": "config",
+      "size": 20359,
+      "sha256": "aef89ad0ceb41e381c6b1c6e738fceb5d2be15ab244220ea8616181c56e87bc9",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/bettermineshafts/1_12_2/variants.json"
+    },
+    {
+      "path": "config/bettermineshafts/README.txt",
+      "category": "config",
+      "size": 546,
+      "sha256": "5e4216e07280b8881466f5b1010f8006ff9477054b366a1f4c0b24cba0b8d030",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/bettermineshafts/README.txt"
+    },
+    {
+      "path": "config/bettermineshafts-1_12_2.cfg",
+      "category": "config",
+      "size": 5439,
+      "sha256": "e5eb9be2f10e1ca71237ee6a016e22ac42ddc8afbd5ca99ff2d644fbe354a412",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/bettermineshafts-1_12_2.cfg"
+    },
+    {
+      "path": "config/betternether.cfg",
+      "category": "config",
+      "size": 11884,
+      "sha256": "a92ec417b1e57c00d01a58def057781c7ef9919a5158d9eb3f81b58be1d9e964",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/betternether.cfg"
+    },
+    {
+      "path": "config/bettertabs.cfg",
+      "category": "config",
+      "size": 851,
+      "sha256": "4506e88bf5739de7ef0001989b2ffb3ca8f0ed2e4495413c46d286dc9147d362",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/bettertabs.cfg"
+    },
+    {
+      "path": "config/bookshelf.cfg",
+      "category": "config",
+      "size": 1590,
+      "sha256": "ba2729658d054813c30596d27f8a0fb17498508cad0e958ebc378f325c92da5a",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/bookshelf.cfg"
+    },
+    {
+      "path": "config/bountifulbaubles.cfg",
+      "category": "config",
+      "size": 3352,
+      "sha256": "925ec88284bb42eedcb9783f2b3478aae96408873c81ad9d03f1b7bbd989c507",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/bountifulbaubles.cfg"
+    },
+    {
+      "path": "config/cgm/guns/assault_rifle.json",
+      "category": "config",
+      "size": 340,
+      "sha256": "e55e0e8219285829bd2fe0b5bfd275e8f9c050f29e56ecb46dc1ff86d173b3c1",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/cgm/guns/assault_rifle.json"
+    },
+    {
+      "path": "config/cgm/guns/bazooka.json",
+      "category": "config",
+      "size": 340,
+      "sha256": "2b1ecdeb8f8bf51e659fd0864577e056228a775a3a89b3ba3299f26c97d6897f",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/cgm/guns/bazooka.json"
+    },
+    {
+      "path": "config/cgm/guns/chain_gun.json",
+      "category": "config",
+      "size": 340,
+      "sha256": "681473c8542fb985678db3d7fc26ec5a4e5376853327480e1c37534d53a4ecb0",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/cgm/guns/chain_gun.json"
+    },
+    {
+      "path": "config/cgm/guns/grenade_launcher.json",
+      "category": "config",
+      "size": 338,
+      "sha256": "b98f62b92cdd092d0a3db787f025612804091244ca7ddabc8614779fe133f77a",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/cgm/guns/grenade_launcher.json"
+    },
+    {
+      "path": "config/cgm/guns/handgun.json",
+      "category": "config",
+      "size": 340,
+      "sha256": "9dd33a1e9ad1e525da25e31dc9f26beeed705bf4e5d053ca82bf5b46c794d7a7",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/cgm/guns/handgun.json"
+    },
+    {
+      "path": "config/cgm/guns/machine_pistol.json",
+      "category": "config",
+      "size": 340,
+      "sha256": "1594a9cc69d524c9510e51a6cf6ed54d724e97512feac71e630fd42a38ca7d4d",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/cgm/guns/machine_pistol.json"
+    },
+    {
+      "path": "config/cgm/guns/rifle.json",
+      "category": "config",
+      "size": 341,
+      "sha256": "0372f96eb993055444300cf49c83e78cd03f2bc8f0d1733eaece5513a5c20645",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/cgm/guns/rifle.json"
+    },
+    {
+      "path": "config/cgm/guns/shotgun.json",
+      "category": "config",
+      "size": 337,
+      "sha256": "fa23fd60bcd107d73c2dac172d033341b3b626138497416185f256976aaaac54",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/cgm/guns/shotgun.json"
+    },
+    {
+      "path": "config/cgm.cfg",
+      "category": "config",
+      "size": 15028,
+      "sha256": "12034082d9e274cd275f24dc657976dfad3665c69e4f854916396b4f70876ca3",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/cgm.cfg"
+    },
+    {
+      "path": "config/disenchanter.cfg",
+      "category": "config",
+      "size": 7163,
+      "sha256": "49d793f4a324b4863dd27a74bf43a53a6e488fee61076696a601b3c9fd9f5be4",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/disenchanter.cfg"
+    },
+    {
+      "path": "config/DLDungeonsJBG/BlockFamilies/crumbling_walls1.json",
+      "category": "config",
+      "size": 173,
+      "sha256": "d2f06b7cdf49f922f1c4390fdb9427fdceeed9b4f755b43e2aeea363549e4d75",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/DLDungeonsJBG/BlockFamilies/crumbling_walls1.json"
+    },
+    {
+      "path": "config/DLDungeonsJBG/BlockFamilies/crumbling_walls2.json",
+      "category": "config",
+      "size": 146,
+      "sha256": "b32c53abfb604a7955435705f970220f33a729fd41716a472a97a0893506bc52",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/DLDungeonsJBG/BlockFamilies/crumbling_walls2.json"
+    },
+    {
+      "path": "config/DLDungeonsJBG/BlockFamilies/mixedbricks1.json",
+      "category": "config",
+      "size": 116,
+      "sha256": "ef7fe591a260e0ccad494509cf868535fe8e25a95097eed684be547ae11f4316",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/DLDungeonsJBG/BlockFamilies/mixedbricks1.json"
+    },
+    {
+      "path": "config/DLDungeonsJBG/BlockFamilies/mixedbricks2.json",
+      "category": "config",
+      "size": 116,
+      "sha256": "8b0a342e29aca8b0426510db8e24cbafc60592decd7c83e20c35b6cd61bd72f5",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/DLDungeonsJBG/BlockFamilies/mixedbricks2.json"
+    },
+    {
+      "path": "config/DLDungeonsJBG/BlockFamilies/mixedbricks3.json",
+      "category": "config",
+      "size": 148,
+      "sha256": "0c9eaf8abcdf667fc93d40c07e153ff127090423ce8806a4685693cc0831b02a",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/DLDungeonsJBG/BlockFamilies/mixedbricks3.json"
+    },
+    {
+      "path": "config/DLDungeonsJBG/BlockFamilies/mixedcobble.json",
+      "category": "config",
+      "size": 119,
+      "sha256": "70017e121d9be3558df8c0b7b5199165a5c91e19bec24bef2c6a23164dad56dd",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/DLDungeonsJBG/BlockFamilies/mixedcobble.json"
+    },
+    {
+      "path": "config/DLDungeonsJBG/chests.cfg",
+      "category": "config",
+      "size": 9996,
+      "sha256": "92ec7c49e434691e5958af7b8a45c82b815169d71e630b056a41c5a6f5ee965f",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/DLDungeonsJBG/chests.cfg"
+    },
+    {
+      "path": "config/DLDungeonsJBG/DLDungeonsJBG.cfg",
+      "category": "config",
+      "size": 6680,
+      "sha256": "d5c3e204eadbcab5a1ad28806c74532dffd928a72c035c7f686f8d651079b4dd",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/DLDungeonsJBG/DLDungeonsJBG.cfg"
+    },
+    {
+      "path": "config/DLDungeonsJBG/nbt.cfg",
+      "category": "config",
+      "size": 3620,
+      "sha256": "8c01fba2790af4281122c3c883f706759c3a5b6a975cb755566b97d5e1dbc263",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/DLDungeonsJBG/nbt.cfg"
+    },
+    {
+      "path": "config/DLDungeonsJBG/SpecialChests/oceanic_chests.cfg",
+      "category": "config",
+      "size": 10201,
+      "sha256": "0bfd7a470975591898c4b52e59aa67c47d89819e80f4ebe7439db25883488339",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/DLDungeonsJBG/SpecialChests/oceanic_chests.cfg"
+    },
+    {
+      "path": "config/DLDungeonsJBG/themes/common.cfg",
+      "category": "config",
+      "size": 5277,
+      "sha256": "34193032bbf855e64e9ee6a8eb8454eaaeda899469078cec7e8ccb9218ae7511",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/DLDungeonsJBG/themes/common.cfg"
+    },
+    {
+      "path": "config/DLDungeonsJBG/themes/continentalShelf.cfg",
+      "category": "config",
+      "size": 4887,
+      "sha256": "39c606d89a654e617e386606a9a7ed2924cb4a0e75bd1c160f7f7fb63a6ba4ba",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/DLDungeonsJBG/themes/continentalShelf.cfg"
+    },
+    {
+      "path": "config/DLDungeonsJBG/themes/dank.cfg",
+      "category": "config",
+      "size": 5194,
+      "sha256": "25f214194ad470a4cbafc2db5115b806c1b610ad6c6401fc6470f4b8393abc2a",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/DLDungeonsJBG/themes/dank.cfg"
+    },
+    {
+      "path": "config/DLDungeonsJBG/themes/desert.cfg",
+      "category": "config",
+      "size": 4538,
+      "sha256": "dc8a081f477bea47ab34f32907bf00e95ea11275e9cf7069081152f2c8b68dc4",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/DLDungeonsJBG/themes/desert.cfg"
+    },
+    {
+      "path": "config/DLDungeonsJBG/themes/frozen.cfg",
+      "category": "config",
+      "size": 4678,
+      "sha256": "8c2d830c2be67099c8582945e8877e75b1598b31d4c4a1787e40ab31e3f2ae64",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/DLDungeonsJBG/themes/frozen.cfg"
+    },
+    {
+      "path": "config/DLDungeonsJBG/themes/jungle.cfg",
+      "category": "config",
+      "size": 4599,
+      "sha256": "0c6498c7ceb498b110f7977208ab0e951227b488505c3066066640d635e73489",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/DLDungeonsJBG/themes/jungle.cfg"
+    },
+    {
+      "path": "config/DLDungeonsJBG/themes/mesa.cfg",
+      "category": "config",
+      "size": 7141,
+      "sha256": "29fb54ac1c70fd13e662c07f2594eb6a81d96c3cf5be752d6cee0d2afbf9c957",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/DLDungeonsJBG/themes/mesa.cfg"
+    },
+    {
+      "path": "config/DLDungeonsJBG/themes/nether.cfg",
+      "category": "config",
+      "size": 4687,
+      "sha256": "b2f18b677e38919bf93f5865e3663d3db1eda631a759f05445600009b4adc151",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/DLDungeonsJBG/themes/nether.cfg"
+    },
+    {
+      "path": "config/DLDungeonsJBG/themes/oceanic.cfg",
+      "category": "config",
+      "size": 5051,
+      "sha256": "f9ed2d207aed9646c6bda8f3a671930ac373d5e7d126ccd81fd62f9ad03c88cc",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/DLDungeonsJBG/themes/oceanic.cfg"
+    },
+    {
+      "path": "config/DLDungeonsJBG/themes/template.cfg",
+      "category": "config",
+      "size": 5741,
+      "sha256": "4e3e8198eab3c8a27bd8289dc6c487bc5c2997e8086bce5e2a901f3c5aeb5407",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/DLDungeonsJBG/themes/template.cfg"
+    },
+    {
+      "path": "config/DLDungeonsJBG/themes/urban.cfg",
+      "category": "config",
+      "size": 4858,
+      "sha256": "d9f69ff7eda772602d1bb5d2a68601a16d153a9e6612711945310d41722b581f",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/DLDungeonsJBG/themes/urban.cfg"
+    },
+    {
+      "path": "config/DLDungeonsJBG/themes/villagelike.cfg",
+      "category": "config",
+      "size": 4530,
+      "sha256": "5cb6eb3f9e4ce8a62db48792c40058780f8ce97966d22bd9a1fc34923b9dd009",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/DLDungeonsJBG/themes/villagelike.cfg"
+    },
+    {
+      "path": "config/DLDungeonsJBG/themes/volcanic.cfg",
+      "category": "config",
+      "size": 4806,
+      "sha256": "ea1c1aa8297d72176cc332dd3e34a043c7ce9ec50d878160aa52871dc330cff3",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/DLDungeonsJBG/themes/volcanic.cfg"
+    },
+    {
+      "path": "config/dynamictrees/dimensions.json",
+      "category": "config",
+      "size": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/dynamictrees/dimensions.json"
+    },
+    {
+      "path": "config/dynamictrees/worldgen.json",
+      "category": "config",
+      "size": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/dynamictrees/worldgen.json"
+    },
+    {
+      "path": "config/dynamictrees.cfg",
+      "category": "config",
+      "size": 5562,
+      "sha256": "07f14a8caa661432c1f004596a9f525165ef99b25cc8831f70b313b73fa84f55",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/dynamictrees.cfg"
+    },
+    {
+      "path": "config/enchdesc.cfg",
+      "category": "config",
+      "size": 182,
+      "sha256": "6b3cb302fc6ac8d7fdaa3063e2df968fea7470d3101f885fa6774b98554bde62",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/enchdesc.cfg"
+    },
+    {
+      "path": "config/entityculling.json",
+      "category": "config",
+      "size": 235,
+      "sha256": "1305e625d04e81377d8c2aa7d7144ca8acb7a195704c8f12ea148db29aef311f",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/entityculling.json"
+    },
+    {
+      "path": "config/eplus.cfg",
+      "category": "config",
+      "size": 1192,
+      "sha256": "44ab161b172206cb25beb3d03859c52079f8c4b2919379fad3e2d2c6de2795d1",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/eplus.cfg"
+    },
+    {
+      "path": "config/forge.cfg",
+      "category": "config",
+      "size": 3953,
+      "sha256": "0cd0a0032df405044b0ab2ac44d11b92eaa7501958d0330508db96b701fe2784",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/forge.cfg"
+    },
+    {
+      "path": "config/forgeChunkLoading.cfg",
+      "category": "config",
+      "size": 2296,
+      "sha256": "ab4e4fba2864a747107357ec562975898d814f001bd700d8771a8ddbc9a4c5a8",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/forgeChunkLoading.cfg"
+    },
+    {
+      "path": "config/futurefireproof.cfg",
+      "category": "config",
+      "size": 1104,
+      "sha256": "77bc0692c008a6d1cc6920b279727f42fa1514091625f61fc44fc646c8eed875",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/futurefireproof.cfg"
+    },
+    {
+      "path": "config/futuremc/futuremc.cfg",
+      "category": "config",
+      "size": 26044,
+      "sha256": "ec288ab6d418bef72db9dc072450ef6174982a6756bf1192a2914ed30986c2f3",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/futuremc/futuremc.cfg"
+    },
+    {
+      "path": "config/grappling_hook.cfg",
+      "category": "config",
+      "size": 4952,
+      "sha256": "9f73402da9698b96b7b7b3289197df5677022ac6999405086da3b45dbacf90cb",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/grappling_hook.cfg"
+    },
+    {
+      "path": "config/GraveStoneMod/GraveStone.cfg",
+      "category": "config",
+      "size": 1135,
+      "sha256": "d6975fd105db16f0869b37f1570e7e4e195e4399dddfea326ebe2cd2bb400241",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/GraveStoneMod/GraveStone.cfg"
+    },
+    {
+      "path": "config/hardcorerevival.cfg",
+      "category": "config",
+      "size": 1004,
+      "sha256": "a3653759f542e9d8f209539256ba50e5253675744af5d219e5c34eabdca9ca1b",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/hardcorerevival.cfg"
+    },
+    {
+      "path": "config/immersive_aircraft.cfg",
+      "category": "config",
+      "size": 1947,
+      "sha256": "f15724006183a110b361b4937bea838754549bd873323a5b1ada8c0a3bf11cca",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/immersive_aircraft.cfg"
+    },
+    {
+      "path": "config/itemphysic.cfg",
+      "category": "config",
+      "size": 132,
+      "sha256": "e2bef5510e194e28e57a08989b49ba293b79731fe79aa4d58c45f2c2e0d3333a",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/itemphysic.cfg"
+    },
+    {
+      "path": "config/jei/itemBlacklist.cfg",
+      "category": "config",
+      "size": 702,
+      "sha256": "4faf1045129337a2d179f5a5126ba6d6708c09ee66dbf8261776ee60f645d34d",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/jei/itemBlacklist.cfg"
+    },
+    {
+      "path": "config/jei/jei.cfg",
+      "category": "config",
+      "size": 3338,
+      "sha256": "80e62fd4908f016ef38daaa2c320bb621345bef2adc96df54f843b991682a05e",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/jei/jei.cfg"
+    },
+    {
+      "path": "config/jei/searchColors.cfg",
+      "category": "config",
+      "size": 2009,
+      "sha256": "4869d10dcb9e54889eb43feafc9d50ac4a286ec6e66c7db295ce6c750c11d4e1",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/jei/searchColors.cfg"
+    },
+    {
+      "path": "config/jei/worldSettings.cfg",
+      "category": "config",
+      "size": 672,
+      "sha256": "78c6f9b49e8f2c38b2a1a1b54a1f92ee888f55b3a7fa01db9fe82cce1ab1a0b5",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/jei/worldSettings.cfg"
+    },
+    {
+      "path": "config/levelup2/json/loot_tables/digging/common_dig.json",
+      "category": "config",
+      "size": 4003,
+      "sha256": "974185a76b0facd994fb2b9dd3b3a3b6c7364fa80252e039e25e0c79e6d25b66",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/levelup2/json/loot_tables/digging/common_dig.json"
+    },
+    {
+      "path": "config/levelup2/json/loot_tables/digging/rare_dig.json",
+      "category": "config",
+      "size": 2322,
+      "sha256": "cf273b706319f1aa9eb703a6f0fdaca92bd9e6ce9577bf3fd4a1406211c9b382",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/levelup2/json/loot_tables/digging/rare_dig.json"
+    },
+    {
+      "path": "config/levelup2/json/loot_tables/digging/uncommon_dig.json",
+      "category": "config",
+      "size": 1550,
+      "sha256": "04b1999ecaf56092608d63d37fdae4c8c84613b7e657bf0fc18398069ddd0dab",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/levelup2/json/loot_tables/digging/uncommon_dig.json"
+    },
+    {
+      "path": "config/levelup2/json/loot_tables/fishing/fishing_loot.json",
+      "category": "config",
+      "size": 2247,
+      "sha256": "dd5ccb679a555bd93d1c85602378adcd8af55df98bf907f6e4fdb390d452131d",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/levelup2/json/loot_tables/fishing/fishing_loot.json"
+    },
+    {
+      "path": "config/levelup2/json/skills/playerclass/archaeologist.json",
+      "category": "config",
+      "size": 479,
+      "sha256": "e53ec2b5081d110857d305926ae2631f39e8831dbb51bef333db1a3d0d0badb2",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/levelup2/json/skills/playerclass/archaeologist.json"
+    },
+    {
+      "path": "config/levelup2/json/skills/playerclass/artisan.json",
+      "category": "config",
+      "size": 464,
+      "sha256": "1166e3b00bc891a96adc7f48a0b14b7d804642bae8f6b01024ffe93b3d0cb302",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/levelup2/json/skills/playerclass/artisan.json"
+    },
+    {
+      "path": "config/levelup2/json/skills/playerclass/assassin.json",
+      "category": "config",
+      "size": 462,
+      "sha256": "4e2ac3307a131b45b1881a774014fdc825b7f1eb1cffc6c7da81a64256ff66aa",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/levelup2/json/skills/playerclass/assassin.json"
+    },
+    {
+      "path": "config/levelup2/json/skills/playerclass/farmer.json",
+      "category": "config",
+      "size": 455,
+      "sha256": "65de67f4388417f608b5cbb6251f97e214e053517a98f8d91ed1342a210bf713",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/levelup2/json/skills/playerclass/farmer.json"
+    },
+    {
+      "path": "config/levelup2/json/skills/playerclass/fisherman.json",
+      "category": "config",
+      "size": 454,
+      "sha256": "b7ba0b16beb09404b6a3001faf157099ae4b132e852c89087c9c0543267a05a1",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/levelup2/json/skills/playerclass/fisherman.json"
+    },
+    {
+      "path": "config/levelup2/json/skills/playerclass/hermit.json",
+      "category": "config",
+      "size": 442,
+      "sha256": "fc7a73477a19c392fc441dd71cb1fc028fe57c64c9caa6d3e2eb095076a0917a",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/levelup2/json/skills/playerclass/hermit.json"
+    },
+    {
+      "path": "config/levelup2/json/skills/playerclass/lumberjack.json",
+      "category": "config",
+      "size": 460,
+      "sha256": "1f604bdf528ca95a567110b87af534c3cdbaf4631819e80a8099a814a3411882",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/levelup2/json/skills/playerclass/lumberjack.json"
+    },
+    {
+      "path": "config/levelup2/json/skills/playerclass/miner.json",
+      "category": "config",
+      "size": 445,
+      "sha256": "d89ad2f396f56b7b44ffd937fbbaebe855b6ccae953d9b336a1fd6c2ccabe308",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/levelup2/json/skills/playerclass/miner.json"
+    },
+    {
+      "path": "config/levelup2/json/skills/playerclass/scout.json",
+      "category": "config",
+      "size": 432,
+      "sha256": "9c3e5f1868dab748f20fe8e8e45576c3505f48a5d816b338f23fa09502b2a831",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/levelup2/json/skills/playerclass/scout.json"
+    },
+    {
+      "path": "config/levelup2/json/skills/playerclass/spelunker.json",
+      "category": "config",
+      "size": 462,
+      "sha256": "64de025c90b7db071cbf935970e1531cc682a2b55d6e5d300879c28873f37b66",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/levelup2/json/skills/playerclass/spelunker.json"
+    },
+    {
+      "path": "config/levelup2/json/skills/playerclass/warrior.json",
+      "category": "config",
+      "size": 444,
+      "sha256": "f63cbfc89ac7b18f0545a4e971d1c987f5c8bb10a966906a5e227f0b61b6826a",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/levelup2/json/skills/playerclass/warrior.json"
+    },
+    {
+      "path": "config/levelup2/json/skills/playerclass/zealot.json",
+      "category": "config",
+      "size": 451,
+      "sha256": "22d24e30c9a37be6995359ea23654845c2b0971a292c1656e656f902314a120e",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/levelup2/json/skills/playerclass/zealot.json"
+    },
+    {
+      "path": "config/levelup2/json/skills/playerskill/arrowspeed.json",
+      "category": "config",
+      "size": 319,
+      "sha256": "26837d133dbc983ef83291264dacba4792b64d649adec368e149b9d7d33af0ba",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/levelup2/json/skills/playerskill/arrowspeed.json"
+    },
+    {
+      "path": "config/levelup2/json/skills/playerskill/bowdraw.json",
+      "category": "config",
+      "size": 332,
+      "sha256": "2d184fd1eab8348fa26f54c094494639a96bcf9364e1e437d46819c1dc6816a9",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/levelup2/json/skills/playerskill/bowdraw.json"
+    },
+    {
+      "path": "config/levelup2/json/skills/playerskill/brewingspeed.json",
+      "category": "config",
+      "size": 315,
+      "sha256": "f043acb9a356a1f52d83b5a16e97de0e73ec653b87ca2d22f9db208fac59398f",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/levelup2/json/skills/playerskill/brewingspeed.json"
+    },
+    {
+      "path": "config/levelup2/json/skills/playerskill/combat_bonus.json",
+      "category": "config",
+      "size": 277,
+      "sha256": "7aaef7d95af55d0560f5ec2f626ea5f54b5457011d8a86a4c8d081ddf845aeb6",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/levelup2/json/skills/playerskill/combat_bonus.json"
+    },
+    {
+      "path": "config/levelup2/json/skills/playerskill/craft_bonus.json",
+      "category": "config",
+      "size": 258,
+      "sha256": "3407112942da682a0957921b07f4f66d052470527258d2eaa66fdd52e8fd6e30",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/levelup2/json/skills/playerskill/craft_bonus.json"
+    },
+    {
+      "path": "config/levelup2/json/skills/playerskill/cropgrowth.json",
+      "category": "config",
+      "size": 306,
+      "sha256": "915ce750ac9f6cf46a0a72f999332df30a3d0437e01afdc7a644172070885421",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/levelup2/json/skills/playerskill/cropgrowth.json"
+    },
+    {
+      "path": "config/levelup2/json/skills/playerskill/fallprotect.json",
+      "category": "config",
+      "size": 332,
+      "sha256": "25f1c28bbad50635710eafde70f9fd34ec38d1be54f741b1c2132592e1b3b561",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/levelup2/json/skills/playerskill/fallprotect.json"
+    },
+    {
+      "path": "config/levelup2/json/skills/playerskill/fishbonus.json",
+      "category": "config",
+      "size": 344,
+      "sha256": "de3941a4ddfde2960a1378315375d22828101178b3183bb36e23c94b329aaa46",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/levelup2/json/skills/playerskill/fishbonus.json"
+    },
+    {
+      "path": "config/levelup2/json/skills/playerskill/flintloot.json",
+      "category": "config",
+      "size": 337,
+      "sha256": "c9b80b599413ae15493ec672a7080f2b99b7062b63560af02bb745a674d53a66",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/levelup2/json/skills/playerskill/flintloot.json"
+    },
+    {
+      "path": "config/levelup2/json/skills/playerskill/furnacebonus.json",
+      "category": "config",
+      "size": 349,
+      "sha256": "18d5467d4f8dd0eb12882cdb5bbbc83d9d98e5ab7b9f9341053f0de7847d1e07",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/levelup2/json/skills/playerskill/furnacebonus.json"
+    },
+    {
+      "path": "config/levelup2/json/skills/playerskill/furnacespeed.json",
+      "category": "config",
+      "size": 296,
+      "sha256": "ad1f355f5914a5f9d84fbed8b7786aea9fb8a189e0368e11cdc93d9fd1637b3c",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/levelup2/json/skills/playerskill/furnacespeed.json"
+    },
+    {
+      "path": "config/levelup2/json/skills/playerskill/harvestbonus.json",
+      "category": "config",
+      "size": 363,
+      "sha256": "00476dc7e557dfeec9a9e3329067f68cad2bf4517e88c827b2687e15dcb1daac",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/levelup2/json/skills/playerskill/harvestbonus.json"
+    },
+    {
+      "path": "config/levelup2/json/skills/playerskill/lumbering.json",
+      "category": "config",
+      "size": 336,
+      "sha256": "cbfb4aa95f61ac42091a9d388b6f4b1d0714eaa99ccb7a9df789bfbb3df6bce4",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/levelup2/json/skills/playerskill/lumbering.json"
+    },
+    {
+      "path": "config/levelup2/json/skills/playerskill/mining_bonus.json",
+      "category": "config",
+      "size": 261,
+      "sha256": "172af5eb6dc7aa1396e02c2ef2b45388ac493363436a8a11f972bd6d214d3cb2",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/levelup2/json/skills/playerskill/mining_bonus.json"
+    },
+    {
+      "path": "config/levelup2/json/skills/playerskill/naturalarmor.json",
+      "category": "config",
+      "size": 369,
+      "sha256": "8b056b554ac8409939aed4cc81ff1dd05b115424e933c6cd39af67e1523c4e7b",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/levelup2/json/skills/playerskill/naturalarmor.json"
+    },
+    {
+      "path": "config/levelup2/json/skills/playerskill/prospecting.json",
+      "category": "config",
+      "size": 328,
+      "sha256": "45af577c8e47e53962325a3ecc63a629a7278578acca26ea8fc394c4751a5642",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/levelup2/json/skills/playerskill/prospecting.json"
+    },
+    {
+      "path": "config/levelup2/json/skills/playerskill/shieldblock.json",
+      "category": "config",
+      "size": 300,
+      "sha256": "5ea84ea3e3bfc498d17cab5f8bb4fee7ff76579c37433f7711b804d34ab19004",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/levelup2/json/skills/playerskill/shieldblock.json"
+    },
+    {
+      "path": "config/levelup2/json/skills/playerskill/sprintspeed.json",
+      "category": "config",
+      "size": 345,
+      "sha256": "3c38768dba0ad5a59920970996e2ad06e6423c569d23b73c48437bc4e6354e56",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/levelup2/json/skills/playerskill/sprintspeed.json"
+    },
+    {
+      "path": "config/levelup2/json/skills/playerskill/stealth.json",
+      "category": "config",
+      "size": 326,
+      "sha256": "7bcd0b5514228e3bf819b003e6655e0c275ea29f85c912a894ef8c6989c919aa",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/levelup2/json/skills/playerskill/stealth.json"
+    },
+    {
+      "path": "config/levelup2/json/skills/playerskill/stealthdamage.json",
+      "category": "config",
+      "size": 369,
+      "sha256": "8973bac5c89bc364be5b0e7719f187aa873bd97c11f5837e79c1918ab173e932",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/levelup2/json/skills/playerskill/stealthdamage.json"
+    },
+    {
+      "path": "config/levelup2/json/skills/playerskill/stonecutting.json",
+      "category": "config",
+      "size": 346,
+      "sha256": "392a993587c4383b06d79cec45fa86457172dfbd0ebbaca3eb0f03f816b58e08",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/levelup2/json/skills/playerskill/stonecutting.json"
+    },
+    {
+      "path": "config/levelup2/json/skills/playerskill/swordcrit.json",
+      "category": "config",
+      "size": 302,
+      "sha256": "2ef9c1059d6478df8a027c4ad081dbfddcceee6e0b1673462a721e86685a08e6",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/levelup2/json/skills/playerskill/swordcrit.json"
+    },
+    {
+      "path": "config/levelup2/json/skills/playerskill/sworddamage.json",
+      "category": "config",
+      "size": 369,
+      "sha256": "fdfef43380eeb7102d9f9d53bbb1d7347b6a242c8ddfeac5df2525bb0de3d996",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/levelup2/json/skills/playerskill/sworddamage.json"
+    },
+    {
+      "path": "config/levelup2/json/skills/playerskill/treasurehunting.json",
+      "category": "config",
+      "size": 328,
+      "sha256": "c9de1e4f8b7c2ad83ab16d3136aa7d1ef040c287308b1fd26dcda9e6db34f085",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/levelup2/json/skills/playerskill/treasurehunting.json"
+    },
+    {
+      "path": "config/levelup2/json/skills/playerskill/woodcutting.json",
+      "category": "config",
+      "size": 341,
+      "sha256": "d0ba0e28d213d9f14762d3a5f7decfb2d4be8c2b5e8bb7a861eee0f2b1173142",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/levelup2/json/skills/playerskill/woodcutting.json"
+    },
+    {
+      "path": "config/levelup2.cfg",
+      "category": "config",
+      "size": 4550,
+      "sha256": "2bd90193acd22810057c590ffe62d63ec9f573342102d6a2cc566ea0bc3992ab",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/levelup2.cfg"
+    },
+    {
+      "path": "config/mixinbooter.cfg",
+      "category": "config",
+      "size": 1322,
+      "sha256": "1597aa13e7ea79af21b79b3088900b24a4bbfd0a9421d111cee3f1423d3180eb",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/mixinbooter.cfg"
+    },
+    {
+      "path": "config/nether_api/betternether.cfg",
+      "category": "config",
+      "size": 245,
+      "sha256": "c059536b9c7ffc92af3a719888a6a36d8230f14739231aa01580c08006af9268",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/nether_api/betternether.cfg"
+    },
+    {
+      "path": "config/nether_api/biomes_o_plenty.cfg",
+      "category": "config",
+      "size": 145,
+      "sha256": "40d9e3eb8510941c108a3cf27ce186bd2c60f7b3130bab022b6ce4ea5c92df28",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/nether_api/biomes_o_plenty.cfg"
+    },
+    {
+      "path": "config/nether_api/journey_into_the_light.cfg",
+      "category": "config",
+      "size": 121,
+      "sha256": "dce7fc5167df15116018eaff6898f3781454f05fa0ad498d456d287ae62cc55c",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/nether_api/journey_into_the_light.cfg"
+    },
+    {
+      "path": "config/nether_api/natura.cfg",
+      "category": "config",
+      "size": 82,
+      "sha256": "a886fe941b71ef65f69e31bf444c2d2cdb87c731d90119705d00d44588d20d4f",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/nether_api/natura.cfg"
+    },
+    {
+      "path": "config/nether_api/nether_hexed_kingdom.cfg",
+      "category": "config",
+      "size": 613,
+      "sha256": "e5052cac07c473c4cff8a82b8f98e3cc0f5a868d6901ff0b8410e32b41866d60",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/nether_api/nether_hexed_kingdom.cfg"
+    },
+    {
+      "path": "config/nether_api/nethercraft.cfg",
+      "category": "config",
+      "size": 70,
+      "sha256": "8e6d44b47f51efa6011e20e5ba2191f99704948d7043966e57474b0201438acd",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/nether_api/nethercraft.cfg"
+    },
+    {
+      "path": "config/nether_api/netherex.cfg",
+      "category": "config",
+      "size": 149,
+      "sha256": "bc49414b0a7de0feb00afe65849bc01d3d72d6280ca762792bec9d85b87ecac9",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/nether_api/netherex.cfg"
+    },
+    {
+      "path": "config/nether_api/stygian_end.cfg",
+      "category": "config",
+      "size": 261,
+      "sha256": "4093adea2183ad3e4042496f35a8c105a6ac0edf14124138ad2e89a75b92b113",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/nether_api/stygian_end.cfg"
+    },
+    {
+      "path": "config/nether_api/vanilla.cfg",
+      "category": "config",
+      "size": 2486,
+      "sha256": "454e08281bb422e3fcb6880a5cda24af7130491570638664e12e758d177cf801",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/nether_api/vanilla.cfg"
+    },
+    {
+      "path": "config/nzgmaddon/guns/automatic_shotgun.json",
+      "category": "config",
+      "size": 340,
+      "sha256": "358ef57ca4d8501b9d71bfd3e283a66f83b48e70a2e712abc8cc9754a676f060",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/nzgmaddon/guns/automatic_shotgun.json"
+    },
+    {
+      "path": "config/nzgmaddon/guns/automatic_sniper_rifle.json",
+      "category": "config",
+      "size": 340,
+      "sha256": "7ec846a0d87bcceee33796034143d0f07a629303ae71f7c9ff6bf099398af2e3",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/nzgmaddon/guns/automatic_sniper_rifle.json"
+    },
+    {
+      "path": "config/nzgmaddon/guns/battle_rifle.json",
+      "category": "config",
+      "size": 339,
+      "sha256": "fbd2abb9d07cb23308bc285c895495da5a0216438e5794e31336b80f6abf4f61",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/nzgmaddon/guns/battle_rifle.json"
+    },
+    {
+      "path": "config/nzgmaddon/guns/bolt_action_rifle.json",
+      "category": "config",
+      "size": 342,
+      "sha256": "49cb08fec0c43899e9cceacea20d726ad28d8950d04d6f587ef46a397d51f14a",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/nzgmaddon/guns/bolt_action_rifle.json"
+    },
+    {
+      "path": "config/nzgmaddon/guns/bullpup_rifle.json",
+      "category": "config",
+      "size": 340,
+      "sha256": "5c382c0b9c8712aa62baeae8f4fecd9b7fd98035b576f2236fd075812aa7b754",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/nzgmaddon/guns/bullpup_rifle.json"
+    },
+    {
+      "path": "config/nzgmaddon/guns/compact_smg.json",
+      "category": "config",
+      "size": 340,
+      "sha256": "368c5b1006275b0fa02ee71d29a7e3549f956af9bf092f45b397cd03c681362c",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/nzgmaddon/guns/compact_smg.json"
+    },
+    {
+      "path": "config/nzgmaddon/guns/double_barreled_shotgun.json",
+      "category": "config",
+      "size": 340,
+      "sha256": "7851d49eb9ff5933c45ea109526d75a49e8f42f359b9a4372df7b71aeec73858",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/nzgmaddon/guns/double_barreled_shotgun.json"
+    },
+    {
+      "path": "config/nzgmaddon/guns/heavy_assault_rifle.json",
+      "category": "config",
+      "size": 339,
+      "sha256": "1e613f20f8157288f1178e8790ef94faaa7abb76e18b47d97700c6d56b1f53c6",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/nzgmaddon/guns/heavy_assault_rifle.json"
+    },
+    {
+      "path": "config/nzgmaddon/guns/heavy_pistol.json",
+      "category": "config",
+      "size": 339,
+      "sha256": "85601b7c0b95acffd2f6fda5ff4008173db4333dad88ecc666dbbcc984090951",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/nzgmaddon/guns/heavy_pistol.json"
+    },
+    {
+      "path": "config/nzgmaddon/guns/heavy_revolver.json",
+      "category": "config",
+      "size": 340,
+      "sha256": "7ade0f43d746445cf281ed9b825a4ec885caf9d91773ae7884c3ed053e50469d",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/nzgmaddon/guns/heavy_revolver.json"
+    },
+    {
+      "path": "config/nzgmaddon/guns/hunting_rifle.json",
+      "category": "config",
+      "size": 342,
+      "sha256": "bdd0c015266cd67c4a82598d9a9e1a714597ee4d4f9c497ab299263b6f811ec6",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/nzgmaddon/guns/hunting_rifle.json"
+    },
+    {
+      "path": "config/nzgmaddon/guns/hunting_shotgun.json",
+      "category": "config",
+      "size": 339,
+      "sha256": "99427fffa28801bdd4888c9edc9f24fc4588a57a58df28a37207be071b0423af",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/nzgmaddon/guns/hunting_shotgun.json"
+    },
+    {
+      "path": "config/nzgmaddon/guns/infantry_rifle.json",
+      "category": "config",
+      "size": 340,
+      "sha256": "59f20d876ac623720b5cc7258454f99aaad50bbe68848255beec7a90962494b5",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/nzgmaddon/guns/infantry_rifle.json"
+    },
+    {
+      "path": "config/nzgmaddon/guns/lever_action_rifle.json",
+      "category": "config",
+      "size": 342,
+      "sha256": "fc78ee151d4104c85e73f0ab486774d3d046c891e003364360621405a4524243",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/nzgmaddon/guns/lever_action_rifle.json"
+    },
+    {
+      "path": "config/nzgmaddon/guns/machine_gun.json",
+      "category": "config",
+      "size": 341,
+      "sha256": "99cf13fbe9beb4d0ce3bd239a9e6c4f58a9d9a816f8b278f03173b471c4f0171",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/nzgmaddon/guns/machine_gun.json"
+    },
+    {
+      "path": "config/nzgmaddon/guns/pump_shotgun.json",
+      "category": "config",
+      "size": 339,
+      "sha256": "d573a9dc099e3af6a52cb35d35104039e52d9a9a28b84c04e0527ddffee05f1d",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/nzgmaddon/guns/pump_shotgun.json"
+    },
+    {
+      "path": "config/nzgmaddon/guns/rapid_smg.json",
+      "category": "config",
+      "size": 342,
+      "sha256": "1bdd780c2e8738785b16524b0844be241232e6a71a3b59c628520af44e1c09b1",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/nzgmaddon/guns/rapid_smg.json"
+    },
+    {
+      "path": "config/nzgmaddon/guns/revolver.json",
+      "category": "config",
+      "size": 339,
+      "sha256": "d4970d946fdc0de78f45fc92b9291c28ee25300950746550db2edb650c684d15",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/nzgmaddon/guns/revolver.json"
+    },
+    {
+      "path": "config/nzgmaddon/guns/sniper_rifle.json",
+      "category": "config",
+      "size": 343,
+      "sha256": "631a864936eb2a719536b25074e5dbbd37e29bd15fac32711c53e3934c182e7c",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/nzgmaddon/guns/sniper_rifle.json"
+    },
+    {
+      "path": "config/nzgmaddon/guns/submachine_gun.json",
+      "category": "config",
+      "size": 340,
+      "sha256": "eb346e07dbec65c134c7291a6634d9d11d51d4f88bb789b9f415ca50565aab00",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/nzgmaddon/guns/submachine_gun.json"
+    },
+    {
+      "path": "config/nzgmaddon/guns/uzi.json",
+      "category": "config",
+      "size": 340,
+      "sha256": "bc8eb3a8e43b55fcc274dd40f02b203e5a72dba8534e9da397c9eb4cb6a4edd2",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/nzgmaddon/guns/uzi.json"
+    },
+    {
+      "path": "config/oceanic_expanse.cfg",
+      "category": "config",
+      "size": 48291,
+      "sha256": "baf02922bc616996d45141ed90b61d8334c2776034947ace8489016a2429bef7",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/oceanic_expanse.cfg"
+    },
+    {
+      "path": "config/oreexcavation.cfg",
+      "category": "config",
+      "size": 2650,
+      "sha256": "758bd77cb1b836657f518d1988d03a1005825f33361419af0f72fa16026e82b7",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/oreexcavation.cfg"
+    },
+    {
+      "path": "config/oreexcavation_groups.json",
+      "category": "config",
+      "size": 311,
+      "sha256": "b24cb186a7b89c5dcf774bcba759c12c1ae6636a216b9edd6ce0ad44a7f620a2",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/oreexcavation_groups.json"
+    },
+    {
+      "path": "config/oreexcavation_overrides.json",
+      "category": "config",
+      "size": 206,
+      "sha256": "083c28769286da8a5dd0aa6da2dac5339c5c6b1c21ce8dad2de10631f8462c86",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/oreexcavation_overrides.json"
+    },
+    {
+      "path": "config/oreexcavation_shapes.json",
+      "category": "config",
+      "size": 566,
+      "sha256": "9c53b3dd12efdfb46e8a6d82af6d218a6f975ad40015213da3f6aa7fec7eb377",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/oreexcavation_shapes.json"
+    },
+    {
+      "path": "config/orelib.cfg",
+      "category": "config",
+      "size": 622,
+      "sha256": "d7cc1cf84412f9e5127ada9bc8619d017788136105a1cccf0ad5b453a123b358",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/orelib.cfg"
+    },
+    {
+      "path": "config/roguelike_dungeons/roguelike.cfg",
+      "category": "config",
+      "size": 253,
+      "sha256": "787eb1f78a490c2961f9b97eb871940e36759666f8243215ea016afacdeebd42",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/roguelike_dungeons/roguelike.cfg"
+    },
+    {
+      "path": "config/RTG/biomes/vanilla/beaches.cfg",
+      "category": "config",
+      "size": 6257,
+      "sha256": "904a38c1982d423193c0b717b92134bff97db2e5bcae0c068c800524308d976c",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/RTG/biomes/vanilla/beaches.cfg"
+    },
+    {
+      "path": "config/RTG/biomes/vanilla/birch_forest.cfg",
+      "category": "config",
+      "size": 6515,
+      "sha256": "f5669971a26d0d2fd3899d2fbe4eb08cad92a194bffecc6ae3043a7a166b1643",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/RTG/biomes/vanilla/birch_forest.cfg"
+    },
+    {
+      "path": "config/RTG/biomes/vanilla/birch_forest_hills.cfg",
+      "category": "config",
+      "size": 6517,
+      "sha256": "ed38ab0241d3d6dbabdf701d9d29b19c12ae0089e927155ce1b36b61b3bda5f0",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/RTG/biomes/vanilla/birch_forest_hills.cfg"
+    },
+    {
+      "path": "config/RTG/biomes/vanilla/cold_beach.cfg",
+      "category": "config",
+      "size": 6169,
+      "sha256": "9c62bb12c893aa488633d15d3bd99e3d2374e2d0ed6e2ae8cff51653062eb262",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/RTG/biomes/vanilla/cold_beach.cfg"
+    },
+    {
+      "path": "config/RTG/biomes/vanilla/deep_ocean.cfg",
+      "category": "config",
+      "size": 6200,
+      "sha256": "ba1bb5cf61ee9be83da8336440cf253e1a1a46a0c42f1f6d1a99ff7e3a0c2bb6",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/RTG/biomes/vanilla/deep_ocean.cfg"
+    },
+    {
+      "path": "config/RTG/biomes/vanilla/desert.cfg",
+      "category": "config",
+      "size": 5753,
+      "sha256": "b225e2a3fcf16b49324fb1fdad1c892019a50b57658535765a6e20e063f28bc7",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/RTG/biomes/vanilla/desert.cfg"
+    },
+    {
+      "path": "config/RTG/biomes/vanilla/desert_hills.cfg",
+      "category": "config",
+      "size": 5717,
+      "sha256": "0377518288c11a961f6a30d4c756b7cbfebe15e63e484080156890cf19cde179",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/RTG/biomes/vanilla/desert_hills.cfg"
+    },
+    {
+      "path": "config/RTG/biomes/vanilla/extreme_hills.cfg",
+      "category": "config",
+      "size": 7055,
+      "sha256": "48d6d4630d08c38493260d34676be8094ac5e090024fd859d0e97975ac90d6b8",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/RTG/biomes/vanilla/extreme_hills.cfg"
+    },
+    {
+      "path": "config/RTG/biomes/vanilla/extreme_hills_with_trees.cfg",
+      "category": "config",
+      "size": 6519,
+      "sha256": "af5b154391d45dd7a4b7e63b4ed4503f2cb76d21e10eaced16d75f1557ea8b17",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/RTG/biomes/vanilla/extreme_hills_with_trees.cfg"
+    },
+    {
+      "path": "config/RTG/biomes/vanilla/forest.cfg",
+      "category": "config",
+      "size": 7005,
+      "sha256": "0165ecc35b75bafcfed18b3f6ca0bf13fd353d028a317365b1e32294ef93b6d4",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/RTG/biomes/vanilla/forest.cfg"
+    },
+    {
+      "path": "config/RTG/biomes/vanilla/forest_hills.cfg",
+      "category": "config",
+      "size": 7007,
+      "sha256": "8bbc58a0c94054b7d58c8a91bb706106787887283dc3e407fc6d7cd86daa7c21",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/RTG/biomes/vanilla/forest_hills.cfg"
+    },
+    {
+      "path": "config/RTG/biomes/vanilla/frozen_ocean.cfg",
+      "category": "config",
+      "size": 6116,
+      "sha256": "c06d586bf9964ec1bba2c3785ce0b33737b922343522139a22842579013e2361",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/RTG/biomes/vanilla/frozen_ocean.cfg"
+    },
+    {
+      "path": "config/RTG/biomes/vanilla/frozen_river.cfg",
+      "category": "config",
+      "size": 5633,
+      "sha256": "cd12532f5b595a67c7995325b52fe4331f5b2975c7f6a503dcc1e3171b4731ac",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/RTG/biomes/vanilla/frozen_river.cfg"
+    },
+    {
+      "path": "config/RTG/biomes/vanilla/ice_flats.cfg",
+      "category": "config",
+      "size": 6132,
+      "sha256": "2133a7909b190df16257517d783cf6c08c8190d2089a7a93342f1a186c6b6544",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/RTG/biomes/vanilla/ice_flats.cfg"
+    },
+    {
+      "path": "config/RTG/biomes/vanilla/ice_mountains.cfg",
+      "category": "config",
+      "size": 6752,
+      "sha256": "6e876459916eb9f06b55e9723f4d97b51b77d725414283e0b4db9f9ef5ba711b",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/RTG/biomes/vanilla/ice_mountains.cfg"
+    },
+    {
+      "path": "config/RTG/biomes/vanilla/jungle.cfg",
+      "category": "config",
+      "size": 6597,
+      "sha256": "88bc3e2797166cc8b8a1b140f44bcae11f6d01b1763563a152c841b96dfdddca",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/RTG/biomes/vanilla/jungle.cfg"
+    },
+    {
+      "path": "config/RTG/biomes/vanilla/jungle_edge.cfg",
+      "category": "config",
+      "size": 6034,
+      "sha256": "b73ea60d95e9e69fd3e6c667fda75db30e740176f3bfde40116d3493926e6b2f",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/RTG/biomes/vanilla/jungle_edge.cfg"
+    },
+    {
+      "path": "config/RTG/biomes/vanilla/jungle_hills.cfg",
+      "category": "config",
+      "size": 6118,
+      "sha256": "7806e40ae392bc08246b6e0b794fd0883483b849047e2ad23e4704a4eedc589d",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/RTG/biomes/vanilla/jungle_hills.cfg"
+    },
+    {
+      "path": "config/RTG/biomes/vanilla/mesa.cfg",
+      "category": "config",
+      "size": 8737,
+      "sha256": "bbd25b5e604f6ff3df1541470eb92be5feea20afa8eef6a66d75177591614e3c",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/RTG/biomes/vanilla/mesa.cfg"
+    },
+    {
+      "path": "config/RTG/biomes/vanilla/mesa_clear_rock.cfg",
+      "category": "config",
+      "size": 8739,
+      "sha256": "c9c16931d96c7a28f12429c5dada8ae39aa65850fa69f6008fd11eb4fce51dec",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/RTG/biomes/vanilla/mesa_clear_rock.cfg"
+    },
+    {
+      "path": "config/RTG/biomes/vanilla/mesa_rock.cfg",
+      "category": "config",
+      "size": 9719,
+      "sha256": "f5df58bebc1fa75f80236583986d93ef1fd9827a5edbae7a734ccd12b34e177e",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/RTG/biomes/vanilla/mesa_rock.cfg"
+    },
+    {
+      "path": "config/RTG/biomes/vanilla/mushroom_island.cfg",
+      "category": "config",
+      "size": 5635,
+      "sha256": "8b4b1e8099ae81f90cd76efceecd6f301c6932e6a06c00ecc5f1be33c75acb41",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/RTG/biomes/vanilla/mushroom_island.cfg"
+    },
+    {
+      "path": "config/RTG/biomes/vanilla/mushroom_island_shore.cfg",
+      "category": "config",
+      "size": 5635,
+      "sha256": "8b4b1e8099ae81f90cd76efceecd6f301c6932e6a06c00ecc5f1be33c75acb41",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/RTG/biomes/vanilla/mushroom_island_shore.cfg"
+    },
+    {
+      "path": "config/RTG/biomes/vanilla/mutated_birch_forest.cfg",
+      "category": "config",
+      "size": 6517,
+      "sha256": "ed38ab0241d3d6dbabdf701d9d29b19c12ae0089e927155ce1b36b61b3bda5f0",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/RTG/biomes/vanilla/mutated_birch_forest.cfg"
+    },
+    {
+      "path": "config/RTG/biomes/vanilla/mutated_birch_forest_hills.cfg",
+      "category": "config",
+      "size": 6036,
+      "sha256": "62375e1828546678780a4f4ee8c53705d3de3ad30a35a041f1519e147cab23bc",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/RTG/biomes/vanilla/mutated_birch_forest_hills.cfg"
+    },
+    {
+      "path": "config/RTG/biomes/vanilla/mutated_desert.cfg",
+      "category": "config",
+      "size": 5719,
+      "sha256": "b76f36e17fbf8d53600b959e9aa1eeb03492fc57c0a44f8d7fd96787e3f6ef35",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/RTG/biomes/vanilla/mutated_desert.cfg"
+    },
+    {
+      "path": "config/RTG/biomes/vanilla/mutated_extreme_hills.cfg",
+      "category": "config",
+      "size": 6652,
+      "sha256": "225a5475ece9f8778d688486ff5c0d543e2bd842551913c403c93fdf98480da5",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/RTG/biomes/vanilla/mutated_extreme_hills.cfg"
+    },
+    {
+      "path": "config/RTG/biomes/vanilla/mutated_extreme_hills_with_trees.cfg",
+      "category": "config",
+      "size": 6118,
+      "sha256": "ddee231b0f89a26f5744158f67ae49888f3a12b53b81b15c0aa72fc8aeceb61b",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/RTG/biomes/vanilla/mutated_extreme_hills_with_trees.cfg"
+    },
+    {
+      "path": "config/RTG/biomes/vanilla/mutated_forest.cfg",
+      "category": "config",
+      "size": 6515,
+      "sha256": "f5669971a26d0d2fd3899d2fbe4eb08cad92a194bffecc6ae3043a7a166b1643",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/RTG/biomes/vanilla/mutated_forest.cfg"
+    },
+    {
+      "path": "config/RTG/biomes/vanilla/mutated_ice_flats.cfg",
+      "category": "config",
+      "size": 5725,
+      "sha256": "da8a1bb91139976bad5494ed34a4495a02aca1f69d37b09e92ed3e3d9c39ff88",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/RTG/biomes/vanilla/mutated_ice_flats.cfg"
+    },
+    {
+      "path": "config/RTG/biomes/vanilla/mutated_jungle.cfg",
+      "category": "config",
+      "size": 6120,
+      "sha256": "d0177fff9f23f02f017d3d324a271a1fcff2a7a2a63ffaf4056dfb51bc63545e",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/RTG/biomes/vanilla/mutated_jungle.cfg"
+    },
+    {
+      "path": "config/RTG/biomes/vanilla/mutated_jungle_edge.cfg",
+      "category": "config",
+      "size": 6038,
+      "sha256": "2f57ab9798120f2d582835a151acfc3dc209d20ef449768565dd0a35f0834024",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/RTG/biomes/vanilla/mutated_jungle_edge.cfg"
+    },
+    {
+      "path": "config/RTG/biomes/vanilla/mutated_mesa.cfg",
+      "category": "config",
+      "size": 8737,
+      "sha256": "29bb9510654d8b28eabc5bb3d796c94b06d09a4daff15604f745caec72f18da7",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/RTG/biomes/vanilla/mutated_mesa.cfg"
+    },
+    {
+      "path": "config/RTG/biomes/vanilla/mutated_mesa_clear_rock.cfg",
+      "category": "config",
+      "size": 8739,
+      "sha256": "c9c16931d96c7a28f12429c5dada8ae39aa65850fa69f6008fd11eb4fce51dec",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/RTG/biomes/vanilla/mutated_mesa_clear_rock.cfg"
+    },
+    {
+      "path": "config/RTG/biomes/vanilla/mutated_mesa_rock.cfg",
+      "category": "config",
+      "size": 9719,
+      "sha256": "f5df58bebc1fa75f80236583986d93ef1fd9827a5edbae7a734ccd12b34e177e",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/RTG/biomes/vanilla/mutated_mesa_rock.cfg"
+    },
+    {
+      "path": "config/RTG/biomes/vanilla/mutated_plains.cfg",
+      "category": "config",
+      "size": 5633,
+      "sha256": "be1112c5da715db184f9bb9ceeeb45bdb2c4ec23197e06a33cdf13537f92ced8",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/RTG/biomes/vanilla/mutated_plains.cfg"
+    },
+    {
+      "path": "config/RTG/biomes/vanilla/mutated_redwood_taiga.cfg",
+      "category": "config",
+      "size": 6036,
+      "sha256": "62375e1828546678780a4f4ee8c53705d3de3ad30a35a041f1519e147cab23bc",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/RTG/biomes/vanilla/mutated_redwood_taiga.cfg"
+    },
+    {
+      "path": "config/RTG/biomes/vanilla/mutated_redwood_taiga_hills.cfg",
+      "category": "config",
+      "size": 6036,
+      "sha256": "62375e1828546678780a4f4ee8c53705d3de3ad30a35a041f1519e147cab23bc",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/RTG/biomes/vanilla/mutated_redwood_taiga_hills.cfg"
+    },
+    {
+      "path": "config/RTG/biomes/vanilla/mutated_roofed_forest.cfg",
+      "category": "config",
+      "size": 6517,
+      "sha256": "ed38ab0241d3d6dbabdf701d9d29b19c12ae0089e927155ce1b36b61b3bda5f0",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/RTG/biomes/vanilla/mutated_roofed_forest.cfg"
+    },
+    {
+      "path": "config/RTG/biomes/vanilla/mutated_savanna.cfg",
+      "category": "config",
+      "size": 6601,
+      "sha256": "eae1247c720595cede2de7bf1b9d1c69dedc45f8eaa647a0e3aa4f058ed07a35",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/RTG/biomes/vanilla/mutated_savanna.cfg"
+    },
+    {
+      "path": "config/RTG/biomes/vanilla/mutated_savanna_rock.cfg",
+      "category": "config",
+      "size": 7914,
+      "sha256": "abbd40970d7ff67c05fa6ba9657171c4cc008fe3785d94e0227f45e065a08f90",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/RTG/biomes/vanilla/mutated_savanna_rock.cfg"
+    },
+    {
+      "path": "config/RTG/biomes/vanilla/mutated_swampland.cfg",
+      "category": "config",
+      "size": 6034,
+      "sha256": "b73ea60d95e9e69fd3e6c667fda75db30e740176f3bfde40116d3493926e6b2f",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/RTG/biomes/vanilla/mutated_swampland.cfg"
+    },
+    {
+      "path": "config/RTG/biomes/vanilla/mutated_taiga.cfg",
+      "category": "config",
+      "size": 6517,
+      "sha256": "ed38ab0241d3d6dbabdf701d9d29b19c12ae0089e927155ce1b36b61b3bda5f0",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/RTG/biomes/vanilla/mutated_taiga.cfg"
+    },
+    {
+      "path": "config/RTG/biomes/vanilla/mutated_taiga_cold.cfg",
+      "category": "config",
+      "size": 6038,
+      "sha256": "2f57ab9798120f2d582835a151acfc3dc209d20ef449768565dd0a35f0834024",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/RTG/biomes/vanilla/mutated_taiga_cold.cfg"
+    },
+    {
+      "path": "config/RTG/biomes/vanilla/ocean.cfg",
+      "category": "config",
+      "size": 6200,
+      "sha256": "ba1bb5cf61ee9be83da8336440cf253e1a1a46a0c42f1f6d1a99ff7e3a0c2bb6",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/RTG/biomes/vanilla/ocean.cfg"
+    },
+    {
+      "path": "config/RTG/biomes/vanilla/plains.cfg",
+      "category": "config",
+      "size": 5957,
+      "sha256": "0faf63744c5e3d0963c224ba37261d87380e57371870caeca4d01cc6b2368d04",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/RTG/biomes/vanilla/plains.cfg"
+    },
+    {
+      "path": "config/RTG/biomes/vanilla/redwood_taiga.cfg",
+      "category": "config",
+      "size": 6034,
+      "sha256": "b73ea60d95e9e69fd3e6c667fda75db30e740176f3bfde40116d3493926e6b2f",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/RTG/biomes/vanilla/redwood_taiga.cfg"
+    },
+    {
+      "path": "config/RTG/biomes/vanilla/redwood_taiga_hills.cfg",
+      "category": "config",
+      "size": 6036,
+      "sha256": "62375e1828546678780a4f4ee8c53705d3de3ad30a35a041f1519e147cab23bc",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/RTG/biomes/vanilla/redwood_taiga_hills.cfg"
+    },
+    {
+      "path": "config/RTG/biomes/vanilla/river.cfg",
+      "category": "config",
+      "size": 5633,
+      "sha256": "cd12532f5b595a67c7995325b52fe4331f5b2975c7f6a503dcc1e3171b4731ac",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/RTG/biomes/vanilla/river.cfg"
+    },
+    {
+      "path": "config/RTG/biomes/vanilla/roofed_forest.cfg",
+      "category": "config",
+      "size": 6599,
+      "sha256": "720380ba01ede442e63d4a25984046e2c1afc92ff51e8aba39fad9bd17d9d39f",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/RTG/biomes/vanilla/roofed_forest.cfg"
+    },
+    {
+      "path": "config/RTG/biomes/vanilla/savanna.cfg",
+      "category": "config",
+      "size": 6595,
+      "sha256": "3e0b84e78b3133b2dfc9de7e36a103dae25bf95fd7bb33ca2f618406cf51c526",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/RTG/biomes/vanilla/savanna.cfg"
+    },
+    {
+      "path": "config/RTG/biomes/vanilla/savanna_rock.cfg",
+      "category": "config",
+      "size": 7914,
+      "sha256": "abbd40970d7ff67c05fa6ba9657171c4cc008fe3785d94e0227f45e065a08f90",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/RTG/biomes/vanilla/savanna_rock.cfg"
+    },
+    {
+      "path": "config/RTG/biomes/vanilla/smaller_extreme_hills.cfg",
+      "category": "config",
+      "size": 7055,
+      "sha256": "48d6d4630d08c38493260d34676be8094ac5e090024fd859d0e97975ac90d6b8",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/RTG/biomes/vanilla/smaller_extreme_hills.cfg"
+    },
+    {
+      "path": "config/RTG/biomes/vanilla/stone_beach.cfg",
+      "category": "config",
+      "size": 6165,
+      "sha256": "8f2602e48da09f397882f03beedc32bf1b4c087c140bf85714a2bab185dbb13d",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/RTG/biomes/vanilla/stone_beach.cfg"
+    },
+    {
+      "path": "config/RTG/biomes/vanilla/swampland.cfg",
+      "category": "config",
+      "size": 6034,
+      "sha256": "b73ea60d95e9e69fd3e6c667fda75db30e740176f3bfde40116d3493926e6b2f",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/RTG/biomes/vanilla/swampland.cfg"
+    },
+    {
+      "path": "config/RTG/biomes/vanilla/taiga.cfg",
+      "category": "config",
+      "size": 6513,
+      "sha256": "14c3dfd03652dcd416c343a98652f109fbecf25560ab9e563eb3ac2e65915f37",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/RTG/biomes/vanilla/taiga.cfg"
+    },
+    {
+      "path": "config/RTG/biomes/vanilla/taiga_cold.cfg",
+      "category": "config",
+      "size": 6034,
+      "sha256": "b73ea60d95e9e69fd3e6c667fda75db30e740176f3bfde40116d3493926e6b2f",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/RTG/biomes/vanilla/taiga_cold.cfg"
+    },
+    {
+      "path": "config/RTG/biomes/vanilla/taiga_cold_hills.cfg",
+      "category": "config",
+      "size": 6036,
+      "sha256": "62375e1828546678780a4f4ee8c53705d3de3ad30a35a041f1519e147cab23bc",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/RTG/biomes/vanilla/taiga_cold_hills.cfg"
+    },
+    {
+      "path": "config/RTG/biomes/vanilla/taiga_hills.cfg",
+      "category": "config",
+      "size": 6517,
+      "sha256": "ed38ab0241d3d6dbabdf701d9d29b19c12ae0089e927155ce1b36b61b3bda5f0",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/RTG/biomes/vanilla/taiga_hills.cfg"
+    },
+    {
+      "path": "config/RTG/rtg.cfg",
+      "category": "config",
+      "size": 3415,
+      "sha256": "7a0b84cccdfab2fc220fb4892f5d63ab263b3d916b7bc8569442e8d91059056a",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/RTG/rtg.cfg"
+    },
+    {
+      "path": "config/scalinghealth/main.cfg",
+      "category": "config",
+      "size": 35471,
+      "sha256": "e2b364f43859c2b766f23591e6def5a1b3ca9adafcee2c5f3de0ff5577b97454",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/scalinghealth/main.cfg"
+    },
+    {
+      "path": "config/securitycraft.cfg",
+      "category": "config",
+      "size": 9462,
+      "sha256": "d8360780c4a7456eeb341381caeef04d153a5f96ae1eb432bfa040342a5ef8e8",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/securitycraft.cfg"
+    },
+    {
+      "path": "config/sereneseasons/biome_info.json",
+      "category": "config",
+      "size": 10801,
+      "sha256": "e6e907f40f8e4296186bad8ac49df09a9b4a30e4c6a556ad4b2f5618fb6667d2",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/sereneseasons/biome_info.json"
+    },
+    {
+      "path": "config/sereneseasons/cropfertility.cfg",
+      "category": "config",
+      "size": 10590,
+      "sha256": "cf7dba0677d3b6dedb3a55d6e77a6c97008aea34a1204e055945d6a7abca27e3",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/sereneseasons/cropfertility.cfg"
+    },
+    {
+      "path": "config/sereneseasons/seasons.cfg",
+      "category": "config",
+      "size": 1474,
+      "sha256": "d1b13176ab0268d1fc0ba133914fa438d66169f6c8d324b0a786a0aeee81249f",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/sereneseasons/seasons.cfg"
+    },
+    {
+      "path": "config/somanyenchantments.cfg",
+      "category": "config",
+      "size": 75470,
+      "sha256": "9911e6b2bc19ed63de8b1f73dfd99de22f29b8c686b790cf7a8dc2702a58d587",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/somanyenchantments.cfg"
+    },
+    {
+      "path": "config/spartannetherite.cfg",
+      "category": "config",
+      "size": 557,
+      "sha256": "c6c24b3909af725822f19df555299990eebab16dceca3d050600a46364dc4a2c",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/spartannetherite.cfg"
+    },
+    {
+      "path": "config/spartanshields.cfg",
+      "category": "config",
+      "size": 8678,
+      "sha256": "1a616a02727d1149142b7956240edb8662957acf4cca255703342bf5da172ba0",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/spartanshields.cfg"
+    },
+    {
+      "path": "config/spartanweaponry.cfg",
+      "category": "config",
+      "size": 34468,
+      "sha256": "c97cef8148554525c1ba880f090f04b4b454bfb202d7641bebca9a979e7dae8f",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/spartanweaponry.cfg"
+    },
+    {
+      "path": "config/splash.properties",
+      "category": "config",
+      "size": 376,
+      "sha256": "7bb79088d5c1adf5aabedadff03beefbfa359b2736c26b2987a9d55547d086fe",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/splash.properties"
+    },
+    {
+      "path": "config/srparasites/SRParasites.cfg",
+      "category": "config",
+      "size": 63022,
+      "sha256": "432c5332cb0a3c979720356faba150a6fb11ca208dbf5b41aaf0a2a4333d2187",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/srparasites/SRParasites.cfg"
+    },
+    {
+      "path": "config/srparasites/SRParasitesMobs.cfg",
+      "category": "config",
+      "size": 250399,
+      "sha256": "929c9a9c11b5492d091970e7cff328ae4dc4c258bb0b82e1f7e3347cd4123427",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/srparasites/SRParasitesMobs.cfg"
+    },
+    {
+      "path": "config/srparasites/SRParasitesSystems.cfg",
+      "category": "config",
+      "size": 173151,
+      "sha256": "17c87d179fc7ee29aba11f7550292a3336e6c873cb5944d961e2b9bf9d9c02e5",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/srparasites/SRParasitesSystems.cfg"
+    },
+    {
+      "path": "config/srparasites/SRParasitesWorld.cfg",
+      "category": "config",
+      "size": 104881,
+      "sha256": "b92f7137a652dfd09200c97d44256eaf472f64721e8b210c80eae3f7aaab1b1c",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/srparasites/SRParasitesWorld.cfg"
+    },
+    {
+      "path": "config/srparasites_purify_mappings.txt",
+      "category": "config",
+      "size": 1132,
+      "sha256": "ba5d95447cae134e392e4d12fc2142c7ca721e690750d56781c27a79af907007",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/srparasites_purify_mappings.txt"
+    },
+    {
+      "path": "config/srpmeteor/SRPMeteorConfig.cfg",
+      "category": "config",
+      "size": 4217,
+      "sha256": "b20304c3bcc8e67152dbfa538a05df7e9d2dfd5e1cbb27440565831041fd8a65",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/srpmeteor/SRPMeteorConfig.cfg"
+    },
+    {
+      "path": "config/stygian.cfg",
+      "category": "config",
+      "size": 417,
+      "sha256": "b19d33b1bc3775cb99f7633b59f3f4f76615f72b5f4a3b935a798ea18e38ff42",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/stygian.cfg"
+    },
+    {
+      "path": "config/surge.cfg",
+      "category": "config",
+      "size": 1274,
+      "sha256": "b716388ce1514fdb76749312c7c82649413e85b0364c584d68e88574c5afd27d",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/surge.cfg"
+    },
+    {
+      "path": "config/swparasites.cfg",
+      "category": "config",
+      "size": 3183,
+      "sha256": "dd620a69acd3ac0755ede8f4f1a842a60181a8a4e1d451aa2082eb339a8c7c62",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/swparasites.cfg"
+    },
+    {
+      "path": "config/tombstone.cfg",
+      "category": "config",
+      "size": 20691,
+      "sha256": "c544c4073692e8d567749dd10bc265cbabee7ec028a999db535fe5809b2a25cb",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/tombstone.cfg"
+    },
+    {
+      "path": "config/toolbelt.cfg",
+      "category": "config",
+      "size": 2602,
+      "sha256": "9620836e9c43d5f302545869188f9e2edcb2100602ac865b5b6cc9a816877bfc",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/toolbelt.cfg"
+    },
+    {
+      "path": "config/travelersbackpack.cfg",
+      "category": "config",
+      "size": 1837,
+      "sha256": "1e2e471d0ce2e8505f04337edc681ba4a23764b773a11f0d14371933714c9af1",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/travelersbackpack.cfg"
+    },
+    {
+      "path": "config/Unseens Nether Backport/blocks_items_config.cfg",
+      "category": "config",
+      "size": 2127,
+      "sha256": "cf13b4302e68d8c462caec24eb05aea8c3afd35508afe20dff132ec8bcc689fa",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/Unseens%20Nether%20Backport/blocks_items_config.cfg"
+    },
+    {
+      "path": "config/Unseens Nether Backport/entities_config.cfg",
+      "category": "config",
+      "size": 4718,
+      "sha256": "43a7daef48fb695959202c8755375cc366317e91d19efdb880c4c55590adab72",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/Unseens%20Nether%20Backport/entities_config.cfg"
+    },
+    {
+      "path": "config/Unseens Nether Backport/general_config.cfg",
+      "category": "config",
+      "size": 2012,
+      "sha256": "fdac1a6a78aa3c817e10df47e7bb19a7ab7be488d0b6ca909fca7d62dfea5253",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/Unseens%20Nether%20Backport/general_config.cfg"
+    },
+    {
+      "path": "config/Unseens Nether Backport/world_config.cfg",
+      "category": "config",
+      "size": 5389,
+      "sha256": "44480c0bb98aab33ece1826f87373f91196db04a28d4c141063109346928e70d",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/Unseens%20Nether%20Backport/world_config.cfg"
+    },
+    {
+      "path": "config/usefulbackpacks.cfg",
+      "category": "config",
+      "size": 824,
+      "sha256": "3ea0bbcae31021cb03761f88225fd6906a91713b522bec5d290c61c089b03c64",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/usefulbackpacks.cfg"
+    },
+    {
+      "path": "config/uteamcore/client.cfg",
+      "category": "config",
+      "size": 180,
+      "sha256": "a9a0c69fbb265f0072376e0b5a5a514425ba0f4dbf583bc0c518638f905a0d28",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/uteamcore/client.cfg"
+    },
+    {
+      "path": "config/villagenames/general.cfg",
+      "category": "config",
+      "size": 35597,
+      "sha256": "d062a31f9a1faa54333a9f66b2a182855c5659ca1b65a2ad1b6b262c589c59db",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/villagenames/general.cfg"
+    },
+    {
+      "path": "config/villagenames/namepieces/alien.cfg",
+      "category": "config",
+      "size": 10648,
+      "sha256": "56cbfecbfc3fcc22cb50fe2e08a077aab2b97f7832d055447d15d42a6bb0c4d2",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/villagenames/namepieces/alien.cfg"
+    },
+    {
+      "path": "config/villagenames/namepieces/alienvillage.cfg",
+      "category": "config",
+      "size": 11019,
+      "sha256": "c14d2b8d181e0d69bb89e043927e9061e0c36203d82a306e2866a6fca9130368",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/villagenames/namepieces/alienvillage.cfg"
+    },
+    {
+      "path": "config/villagenames/namepieces/angel.cfg",
+      "category": "config",
+      "size": 4851,
+      "sha256": "a0e7f4377dcbfa783babe58d2e4f5ed555bd26fc15be1af097211080a8834a99",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/villagenames/namepieces/angel.cfg"
+    },
+    {
+      "path": "config/villagenames/namepieces/custom.cfg",
+      "category": "config",
+      "size": 2278,
+      "sha256": "1d0fcbf98403a39f429c4d23066b0b78bff3492067106d9d968bcbbae62ccff3",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/villagenames/namepieces/custom.cfg"
+    },
+    {
+      "path": "config/villagenames/namepieces/demon.cfg",
+      "category": "config",
+      "size": 8473,
+      "sha256": "63d4725b419dd8e5c119d379f27e612413de9d8d36985bcdf9cdde7c9fc57b06",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/villagenames/namepieces/demon.cfg"
+    },
+    {
+      "path": "config/villagenames/namepieces/dragon.cfg",
+      "category": "config",
+      "size": 5172,
+      "sha256": "ffc8979cffc14026e849b2270629ac8c2f0a1db3de7ee4c117dad5608fb8951f",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/villagenames/namepieces/dragon.cfg"
+    },
+    {
+      "path": "config/villagenames/namepieces/endcity.cfg",
+      "category": "config",
+      "size": 4442,
+      "sha256": "609c27b64f2004c590d8329e6e8dc2cd88c2a04249ad3ad8fa594543dc1df936",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/villagenames/namepieces/endcity.cfg"
+    },
+    {
+      "path": "config/villagenames/namepieces/fortress.cfg",
+      "category": "config",
+      "size": 4692,
+      "sha256": "f7d32128d6dc6a90b5368ecc871fe7f842a00c52e0ba2b8d6efc2d6e129cd182",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/villagenames/namepieces/fortress.cfg"
+    },
+    {
+      "path": "config/villagenames/namepieces/goblin.cfg",
+      "category": "config",
+      "size": 7306,
+      "sha256": "42765f6c43d7778b8d60ece6ad4237fecacf5e610a76cfee11dad426ecdc1a71",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/villagenames/namepieces/goblin.cfg"
+    },
+    {
+      "path": "config/villagenames/namepieces/golem.cfg",
+      "category": "config",
+      "size": 6636,
+      "sha256": "3825666911347c9ecb94e144def5f73825437bccc00e65085ad504bc1f21d5fc",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/villagenames/namepieces/golem.cfg"
+    },
+    {
+      "path": "config/villagenames/namepieces/mansion.cfg",
+      "category": "config",
+      "size": 6322,
+      "sha256": "653cb1a1a953b728c1f25948702f845b6b6bbb5d448861c2d21212c0a4c6a71c",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/villagenames/namepieces/mansion.cfg"
+    },
+    {
+      "path": "config/villagenames/namepieces/mineshaft.cfg",
+      "category": "config",
+      "size": 13379,
+      "sha256": "3ecfd740e4538b301fb1f74bfd82d95916ae11127b281d73f69f3455a99b3cf0",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/villagenames/namepieces/mineshaft.cfg"
+    },
+    {
+      "path": "config/villagenames/namepieces/monument.cfg",
+      "category": "config",
+      "size": 5273,
+      "sha256": "7d47de2d8d4a7560f343502d3f3bcc1417e165b4728138f66c770537ee3c75ad",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/villagenames/namepieces/monument.cfg"
+    },
+    {
+      "path": "config/villagenames/namepieces/pet.cfg",
+      "category": "config",
+      "size": 16445,
+      "sha256": "28bfa913ec8f0261e5f1faa576ca035115b3b41498876f7a68a33b2cfc05a489",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/villagenames/namepieces/pet.cfg"
+    },
+    {
+      "path": "config/villagenames/namepieces/stronghold.cfg",
+      "category": "config",
+      "size": 6153,
+      "sha256": "d0780431141ee59a7bbcb307fec5753486c457c6f4b7cf5a213bdd3f571443f8",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/villagenames/namepieces/stronghold.cfg"
+    },
+    {
+      "path": "config/villagenames/namepieces/temple.cfg",
+      "category": "config",
+      "size": 8378,
+      "sha256": "cc541c4783eb83825888a45bd292c3fd74a038f4b8a37e5e8c581c14869b26b5",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/villagenames/namepieces/temple.cfg"
+    },
+    {
+      "path": "config/villagenames/namepieces/village.cfg",
+      "category": "config",
+      "size": 13537,
+      "sha256": "2c2d8fdb9b7f79a8a95c128990830c3e1d15b8fe075d07328a77e971caf49643",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/villagenames/namepieces/village.cfg"
+    },
+    {
+      "path": "config/villagenames/namepieces/villager.cfg",
+      "category": "config",
+      "size": 13558,
+      "sha256": "0bd238b457a3a4e925e32084cfe4dc438ec8fbddd60d2a407a839793503ebeb7",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/villagenames/namepieces/villager.cfg"
+    },
+    {
+      "path": "config/villagenames/newvillages/mod_components.cfg",
+      "category": "config",
+      "size": 52891,
+      "sha256": "3ad527144b101e948edddb61c85c8ecf869de7c5043b623b4203e1dfa258c846",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/villagenames/newvillages/mod_components.cfg"
+    },
+    {
+      "path": "config/villagenames/newvillages/village_gen.cfg",
+      "category": "config",
+      "size": 82843,
+      "sha256": "05ca21a3de929d83bb350599fc722a537b6cdd4d127c08358b9e3d9122ec2185",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/villagenames/newvillages/village_gen.cfg"
+    },
+    {
+      "path": "config/villagerbackport.cfg",
+      "category": "config",
+      "size": 78351,
+      "sha256": "ee143d4f07d16239ace0c02e4338510626f164a433852e4d1de99b8ff87511fa",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/villagerbackport.cfg"
+    },
+    {
+      "path": "config/vintagefix.properties",
+      "category": "config",
+      "size": 1054,
+      "sha256": "4cc6c6cfd0364108c5d923f395d262527a9f8304663bd9b80b2bf03d66bfbb7f",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/vintagefix.properties"
+    },
+    {
+      "path": "config/Waystones.cfg",
+      "category": "config",
+      "size": 4755,
+      "sha256": "da8901b3a34c6b64668fa5ccccd169a29ba87e8fed06b557a8baa1561ffa309a",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/Waystones.cfg"
+    },
+    {
+      "path": "config/wheresthatstructure.cfg",
+      "category": "config",
+      "size": 1892,
+      "sha256": "0cad71e7b42a57c020834fef840b52d5912a0f0fd940b047466ea9f07ab96460",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/wheresthatstructure.cfg"
+    },
+    {
+      "path": "config/WildCaves4.cfg",
+      "category": "config",
+      "size": 4527,
+      "sha256": "f01a75002a343b7c1589ac937d4906486d41beaecf76f38878030a8711a8156c",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/WildCaves4.cfg"
+    },
+    {
+      "path": "config/wings/items.cfg",
+      "category": "config",
+      "size": 2998,
+      "sha256": "0cec6de78beb3411b96abf1fe8efe26a0794e916b4f7f9d884f3304a6d9687e6",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/wings/items.cfg"
+    },
+    {
+      "path": "config/wings/ores.cfg",
+      "category": "config",
+      "size": 323,
+      "sha256": "9fb7bae6c44c0d3ba7b864f38e5b43ed1390d8ebbaf22ca38988bd80150fd183",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/wings/ores.cfg"
+    },
+    {
+      "path": "config/wings.cfg",
+      "category": "config",
+      "size": 102,
+      "sha256": "3fc596fa0cc301e9629c5288f40695d721011625987b7af48ec1b847e5fb007c",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/wings.cfg"
+    },
+    {
+      "path": "config/xaero/lib/client.cfg",
+      "category": "config",
+      "size": 26,
+      "sha256": "43ed9dbfa5b4d6f0f3d2e8c2ced17ad298164b22c68ff11d415257a39b074336",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/xaero/lib/client.cfg"
+    },
+    {
+      "path": "config/xaero/lib/common.cfg",
+      "category": "config",
+      "size": 236,
+      "sha256": "98f698d96a6d21d830a455b4ad045b70516fa63c298021742d8499e7f0366cd2",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/xaero/lib/common.cfg"
+    },
+    {
+      "path": "config/xaero/lib/profiles/default.cfg",
+      "category": "config",
+      "size": 121,
+      "sha256": "34ae854b17d896d7cb853bdc28c27231a3947e91cb9f0991f372846ee3c2a907",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/xaero/lib/profiles/default.cfg"
+    },
+    {
+      "path": "config/xaero/lib/server_profiles/default.cfg",
+      "category": "config",
+      "size": 75,
+      "sha256": "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/xaero/lib/server_profiles/default.cfg"
+    },
+    {
+      "path": "config/xaero/minimap/client.cfg",
+      "category": "config",
+      "size": 235,
+      "sha256": "c0915eff5d1a7905cd1038d646eb9086fd1a29e2f637d53535e4da161de17b9f",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/xaero/minimap/client.cfg"
+    },
+    {
+      "path": "config/xaero/minimap/common.cfg",
+      "category": "config",
+      "size": 147,
+      "sha256": "2b49df024c03a369c62a303c72755e7fedeb4f4653ff53a12fd37bd83ccd4ed0",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/xaero/minimap/common.cfg"
+    },
+    {
+      "path": "config/xaero/minimap/default_radar_categories_client.json",
+      "category": "config",
+      "size": 5531,
+      "sha256": "d44155ad6524baf93af689dcc2f7bab16d1989475f4c91a88ee526687e4957ec",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/xaero/minimap/default_radar_categories_client.json"
+    },
+    {
+      "path": "config/xaero/minimap/default_radar_categories_server.json",
+      "category": "config",
+      "size": 4597,
+      "sha256": "a4c652cafa7dea324e5f5cf3b1df46a84e54b6d4f877195857bce55a559c1cfd",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/xaero/minimap/default_radar_categories_server.json"
+    },
+    {
+      "path": "config/xaero/minimap/profiles/default.cfg",
+      "category": "config",
+      "size": 3916,
+      "sha256": "08900fea1efbc33eeb42cf19c769466c5a224271a05e3734c81e6f7d5d1e78cc",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/xaero/minimap/profiles/default.cfg"
+    },
+    {
+      "path": "config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json",
+      "category": "config",
+      "size": 5531,
+      "sha256": "d44155ad6524baf93af689dcc2f7bab16d1989475f4c91a88ee526687e4957ec",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json"
+    },
+    {
+      "path": "config/xaero/minimap/profiles/info_display_config/default.cfg.txt",
+      "category": "config",
+      "size": 684,
+      "sha256": "184e654fa1fc8ad09943c97c4e65ab78acb5b3cfca22417a831513d1b6d9bbc6",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
+    },
+    {
+      "path": "config/xaero/minimap/server_profiles/default.cfg",
+      "category": "config",
+      "size": 75,
+      "sha256": "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/xaero/minimap/server_profiles/default.cfg"
+    },
+    {
+      "path": "config/xaero/world-map/client.cfg",
+      "category": "config",
+      "size": 521,
+      "sha256": "d0f079a8df083f6f60a0e0c1316a25fc841755a91bdcb2f86c66ead8e7d4d13d",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/xaero/world-map/client.cfg"
+    },
+    {
+      "path": "config/xaero/world-map/common.cfg",
+      "category": "config",
+      "size": 141,
+      "sha256": "0c229eb0daf85bd09af51f21eeeb99497a3bd50a825d5ab1ca695fb21bf6cf9d",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/xaero/world-map/common.cfg"
+    },
+    {
+      "path": "config/xaero/world-map/profiles/default.cfg",
+      "category": "config",
+      "size": 1620,
+      "sha256": "aaeea6b2f4468261cbd6c112e9a9e773a89979f2751e49b69a616d15fe995bb9",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/xaero/world-map/profiles/default.cfg"
+    },
+    {
+      "path": "config/xaero/world-map/server_profiles/default.cfg",
+      "category": "config",
+      "size": 75,
+      "sha256": "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/xaero/world-map/server_profiles/default.cfg"
+    },
+    {
+      "path": "config/xaerohud.txt",
+      "category": "config",
+      "size": 123,
+      "sha256": "58c9270f258d0b224bb7d0f7c927544d5fbe5f1b8027c820e1e14ecbf48fb88c",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/xaerohud.txt"
+    },
+    {
+      "path": "config/xaeropatreon.txt",
+      "category": "config",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/config/xaeropatreon.txt"
+    },
+    {
+      "path": "resourcepacks/A Little Taste of Jerm v2.0-1.12.2.zip",
+      "category": "resourcepacks",
+      "size": 3712676,
+      "sha256": "9d0df8d730085a385b284b780ce8f5df84383707c4c525fb982a95cbec5101ce",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/resourcepacks/A%20Little%20Taste%20of%20Jerm%20v2.0-1.12.2.zip"
+    },
+    {
+      "path": "resourcepacks/Bare Bones 1.11-1.12.zip",
+      "category": "resourcepacks",
+      "size": 10934376,
+      "sha256": "535574e15614f0aef85c8ed444599dbe97f97ca1125d3f9713c012f45211116a",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/resourcepacks/Bare%20Bones%201.11-1.12.zip"
+    },
+    {
+      "path": "resourcepacks/Bare Bones 1.16.zip",
+      "category": "resourcepacks",
+      "size": 10620109,
+      "sha256": "82afd5d3d647cae46290683d5b1d6cea3e1853fdfa7afa7cb59aaf7ea6b7122f",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/resourcepacks/Bare%20Bones%201.16.zip"
+    },
+    {
+      "path": "resourcepacks/Bare Bones 1.20.zip",
+      "category": "resourcepacks",
+      "size": 7791662,
+      "sha256": "f362e683a1e59aed2fab35c839b2cb30ad3f60d509bed4414de9a9351884e4cd",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/resourcepacks/Bare%20Bones%201.20.zip"
+    },
+    {
+      "path": "resourcepacks/Bare_Bones_Full_Vanilla_Plus_ES.zip",
+      "category": "resourcepacks",
+      "size": 11529398,
+      "sha256": "3abcf68946de3089208cea132eb262733bfec96bc168de3c7bcdc1ac9f487b70",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/resourcepacks/Bare_Bones_Full_Vanilla_Plus_ES.zip"
+    },
+    {
+      "path": "resourcepacks/Default-Dark-Mode-1.12.zip",
+      "category": "resourcepacks",
+      "size": 163914,
+      "sha256": "0c6818dcdfd3600eadfc38cccaca0c71564c8c797bc917696088412fae01408b",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/resourcepacks/Default-Dark-Mode-1.12.zip"
+    },
+    {
+      "path": "resourcepacks/F8thful.zip",
+      "category": "resourcepacks",
+      "size": 3671803,
+      "sha256": "db70147ef9b3bd454283fad5150ddb060950586dbe182430a9ff42127476bb80",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/resourcepacks/F8thful.zip"
+    },
+    {
+      "path": "resourcepacks/Infernal Resources.zip",
+      "category": "resourcepacks",
+      "size": 27230,
+      "sha256": "d8f9ad919602ab59a672e8c9efc34a2e6c402c2436471e3ce7faf4134a41c466",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/resourcepacks/Infernal%20Resources.zip"
+    },
+    {
+      "path": "resourcepacks/Low-On-Fire-1.12.zip",
+      "category": "resourcepacks",
+      "size": 36602,
+      "sha256": "5f528ac505bb7136fcbfd75d1d5c39f5bebfe34cf159cdb786805c6d5fb6023e",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/resourcepacks/Low-On-Fire-1.12.zip"
+    },
+    {
+      "path": "resourcepacks/Modernity-1.12.2.zip",
+      "category": "resourcepacks",
+      "size": 1505517,
+      "sha256": "24fe3933702506af1b368d401761402a9ee494bb5fbafe1e7eed0b7f848309c4",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/resourcepacks/Modernity-1.12.2.zip"
+    },
+    {
+      "path": "resourcepacks/Outlined-Ores-1.12.zip",
+      "category": "resourcepacks",
+      "size": 55607,
+      "sha256": "b3656565959294751e97741c3d968475474bb7ef12f20c95b610e9cd360070fe",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/resourcepacks/Outlined-Ores-1.12.zip"
+    },
+    {
+      "path": "resourcepacks/Quark Programmer Art.zip",
+      "category": "resourcepacks",
+      "size": 266417,
+      "sha256": "727a1911080bd4b8041986e47d9e4d556b4d78756636643470f7e54a46116349",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/resourcepacks/Quark%20Programmer%20Art.zip"
+    },
+    {
+      "path": "resourcepacks/RLDark Mode.zip",
+      "category": "resourcepacks",
+      "size": 4056976,
+      "sha256": "d7e5c6622fd85ddf00989170b58dd6c856a70f22067a70e2e123225da3a219b7",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/resourcepacks/RLDark%20Mode.zip"
+    },
+    {
+      "path": "resourcepacks/Stoneborn RL Edition.zip",
+      "category": "resourcepacks",
+      "size": 5152912,
+      "sha256": "72c28096c71e912deeaac26244462b6e591e489aee441ca386c44e74a5cdd779",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/resourcepacks/Stoneborn%20RL%20Edition.zip"
+    },
+    {
+      "path": "resourcepacks/STONEBORN-1.12.2-V3.1.zip",
+      "category": "resourcepacks",
+      "size": 5280110,
+      "sha256": "f226ff1e64fc20eb6ce3bb7c46a8e8f5146859e4170f09840bc334a5073e91bd",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/resourcepacks/STONEBORN-1.12.2-V3.1.zip"
+    },
+    {
+      "path": "resourcepacks/Traduccion_Espanol_Mods.zip",
+      "category": "resourcepacks",
+      "size": 447034,
+      "sha256": "1404131e98e842fc08bf50ddba92782fd90613e473e73bc28fafee0b8376826d",
+      "optional": false,
+      "url": "https://raw.githubusercontent.com/diegoev309-lgtm/Cachapa-minecraft/main/packs/parasitos-1-12-2/resourcepacks/Traduccion_Espanol_Mods.zip"
+    }
+  ]
+}

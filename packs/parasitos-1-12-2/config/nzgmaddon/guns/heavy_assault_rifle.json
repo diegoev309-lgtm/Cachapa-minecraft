@@ -1,0 +1,18 @@
+{
+  "General": {
+    "Max Ammo": 30,
+    "Reload Speed": 8,
+    "Projectile Count": 1,
+    "Always Spread": false,
+    "Spread": 8.0
+  },
+  "Projectile": {
+    "Damage": 7.5,
+    "Damage Falloff": false,
+    "Gravity": true,
+    "Ticks Before Removed": 25,
+    "Reduce Damage If Not Zoomed": false,
+    "Size": 0.2,
+    "Speed": 10.0
+  }
+}

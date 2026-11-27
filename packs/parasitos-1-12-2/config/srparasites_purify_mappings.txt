@@ -1,0 +1,21 @@
+# SRP -> Vanilla mappings (exact); heuristics handle the rest
+srparasites:infestedstain - minecraft:dirt
+srparasites:infested_leaves - minecraft:leaves
+srparasites:infestedrubble - minecraft:stone
+srparasites:infested_cobblestone - minecraft:cobblestone
+srparasites:infested_planks - minecraft:planks
+srparasites:infested_plank_stairs - minecraft:oak_stairs
+srparasites:infested_stone_bricks - minecraft:stonebrick
+srparasites:infested_stone_polished - minecraft:stone
+srparasites:infested_terracotta - minecraft:stained_hardened_clay
+srparasites:infested_column - minecraft:log
+srparasites:infested_pot - minecraft:flower_pot
+srparasites:infestedsand - minecraft:sand
+srparasites:inf_ss - minecraft:sandstone
+srparasites:inf_ss_chiseled - minecraft:sandstone
+srparasites:infested_sandstone_stairs - minecraft:sandstone_stairs
+srparasites:infested_stone_bricks_stairs - minecraft:stone_brick_stairs
+srparasites:infested_fence - minecraft:fence
+srparasites:infested_stone_brick_wall - minecraft:cobblestone_wall
+srparasites:infested_glass - minecraft:glass
+srparasites:infested_glass_pane - minecraft:glass_pane
